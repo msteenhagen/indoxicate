@@ -4,9 +4,6 @@ title = 'Indoxicate'
 paginate = 3
 theme = 'maverick'
 
-permalinks:
-  posts: /:title/
-
 [permalinks]
   posts = ":title/"
 
