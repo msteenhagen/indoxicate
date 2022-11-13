@@ -6,6 +6,7 @@ theme = 'maverick'
 
 [permalinks]
   posts = ":slugorfilename/"
+  pages = ":filename/"
 
 [params]
   logo = '/assets/favicon.ico'
