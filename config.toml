@@ -5,7 +5,7 @@ paginate = 3
 theme = 'maverick'
 
 [permalinks]
-  pages = "/:slug"
+  posts = ":title/"
 
 [params]
   logo = '/assets/favicon.ico'
