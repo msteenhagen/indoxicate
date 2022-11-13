@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="/">
+    <title type="html"><![CDATA[Notes - ex forti dulcedo.]]></title>
+    <subtitle type="html"><![CDATA[Maarten Steenhagen is a philosopher and writer. This is his website. You will find notes, essays, and academic papers.]]></subtitle>
+    <link href="/note/" rel="alternate" type="text/html" title="HTML" />
+    <link href="/note/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
+    <link href="/note/feeds/feed.rss.xml" rel="alternate" type="text/xml" title="Feed" />
+    <link href="/note/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <icon>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</icon>
+    <logo>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</logo>
+    <author>
+        <name type="html"><![CDATA[John Doe]]></name>
+        <email>john@example.com</email>
+    </author>
+    <rights>Copyright © 2021-2022 Maarten Steenhagen</rights>
+    <generator uri="https://gohugo.io" version="0.104.2">Hugo</generator>
+    <updated>2022-05-10T00:00:00Z</updated>
+    <id>urn:uuid:42099b4a-f021-553f-d98f-e056c2568d7c</id>
+    <entry>
+        
+        <category term="note" />
+        
+        <link rel="alternate" type="type/html" href="/note/o-captain/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[O Captain! My Captain!]]></title>
+        
+        
+        
+        <published>2021-02-02T23:56:58+02:00</published>
+        <id>urn:uuid:b17ce63c-9e14-5933-992c-476dddce5811</id>
+        
+                <author>
+                    <name>Walt Whitman</name>
+                </author>
+        
+        <summary type="html"><![CDATA[O Captain! my Captain! our fearful trip is done;1 The ship has weather’d every rack, the prize we sought is won, The port is near, the bells I hear, the people all exulting, While follow eyes the steady keel, the vessel grim and daring; But O heart! heart! heart! O the bleeding drops of red, Where on the deck my Captain lies, Fallen cold and dead. O Captain! my Captain!]]></summary>
+    </entry>
+</feed>

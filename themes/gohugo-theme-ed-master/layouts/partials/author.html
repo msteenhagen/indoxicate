@@ -1,0 +1,12 @@
+{{- /* First, check for current page author(s) */}}
+{{- if .Params.author }}
+    {{- $author_type := (printf "%T" .Params.author) }}
+    {{- if (or (eq $author_type "[]string") (eq $author_type "[]interface {}")) }}
+        {{- (delimit .Params.author ", " ) }}
+    {{- else }}
+        {{- .Params.author }}
+    {{- end }}
+{{- /* Otherwise, get site authors */}}
+{{- else if site.Author.name }}
+    {{- site.Author.name }}
+{{- end -}}

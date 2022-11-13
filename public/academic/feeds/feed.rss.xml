@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xml:lang="en-us"
+    xml:base="/">
+    <channel>
+        <title type="html"><![CDATA[Academics - ex forti dulcedo.]]></title>
+    </channel>
+    <link type="text/html">/</link>
+    
+    <image>
+        <url>/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
+        <title type="html"><![CDATA[Academics - ex forti dulcedo.]]></title>
+        <link>/</link>
+        <width>96</width>
+        <height>96</height>
+    </image>
+    <atom:link href="/academic/" rel="alternate" type="text/html" title="HTML" />
+    <atom:link href="/academic/feeds/feed.atom.xml" rel="alternate" type="text/xml" title="Atom" />
+    <atom:link href="/academic/feeds/feed.rss.xml" rel="self" type="text/xml" title="Feed" />
+    <atom:link href="/academic/feeds/feed.json" rel="alternate" type="application/feed+json" title="JsonFeed" />
+    <description type="html"><![CDATA[Maarten Steenhagen is a philosopher and writer. This is his website. You will find notes, essays, and academic papers.]]></description>
+    <generator>Hugo 0.104.2</generator>
+    <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021-2022 Maarten Steenhagen</copyright>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+        <title type="html"><![CDATA[Fictional Creations]]></title>
+        <link>/academic/sense-reference-pictures/?utm_source=rss_feed</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <category>academic</category>
+        <guid isPermaLink="false">0dcb6cadd74fffd13003b19c04c3aa12</guid>
+        <description type="html"><![CDATA[Many people assume that fictional entities are encapsulated in the world of fiction. I show that this cannot be right. Some works of fiction tell us about pieces of poetry, music, or theatre written by fictional characters. Such creations are fictional creations, as I will call them. Their authors do not exist. But that does not take away that we can perform, recite, or otherwise generate actual instances of such works.]]></description>
+    </item>
+    
+    <item>
+        <title type="html"><![CDATA[Fictional Creations]]></title>
+        <link>/academic/fictional-creations/?utm_source=rss_feed</link>
+        <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+        <category>academic</category>
+        <guid isPermaLink="false">bd8004e11f97a1b6a253aee939674f24</guid>
+        <description type="html"><![CDATA[Many people assume that fictional entities are encapsulated in the world of fiction. I show that this cannot be right. Some works of fiction tell us about pieces of poetry, music, or theatre written by fictional characters. Such creations are fictional creations, as I will call them. Their authors do not exist. But that does not take away that we can perform, recite, or otherwise generate actual instances of such works.]]></description>
+    </item>
+    
+</rss>
