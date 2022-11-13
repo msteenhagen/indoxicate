@@ -127,9 +127,15 @@ ul, ol {
 }
 
 .content {
-    max-width: 50ch;
+    max-width: 60ch;
     margin: 0 auto;
     text-align: justify;
+}
+
+.frontcontent {
+    max-width: 70ch;
+    margin: 0 auto;
+    //text-align: justify;
 }
 
 header {
