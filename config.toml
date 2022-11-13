@@ -5,7 +5,7 @@ paginate = 3
 theme = 'maverick'
 
 [permalinks]
-  posts = ":filename/"
+  posts = ":slugorfilename/"
 
 [params]
   logo = '/assets/favicon.ico'
