@@ -1,4 +1,4 @@
-## Weclome!
+## Welcome!
 
 <img class="avatar" src="../img/about-img.jpg" alt="avatar">
 
