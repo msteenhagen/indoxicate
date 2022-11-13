@@ -34,7 +34,13 @@ p.sitetitle {
   top: 0;
 }
 
-h1, h2, h3, h4, h5, strong, b {
+h1 {
+    font-size: 20;
+    font-weight: 600;
+    //text-transform: uppercase;
+}
+
+h2, h3, h4, h5, strong, b {
     font-size: inherit;
     font-weight: 600;
     //text-transform: uppercase;
@@ -121,9 +127,15 @@ ul, ol {
 }
 
 .content {
-    max-width: 70ch;
+    max-width: 60ch;
     margin: 0 auto;
-    // text-align: justify;
+    text-align: justify;
+}
+
+.frontcontent {
+    max-width: 60ch;
+    margin: 0 auto;
+    //text-align: justify;
 }
 
 header {
