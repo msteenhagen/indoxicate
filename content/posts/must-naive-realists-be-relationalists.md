@@ -6,6 +6,7 @@ author: Maarten Steenhagen
 editor:
 pdf: "https://philpapers.org/archive/STEMNR.pdf" 
 source: "Maarten Steenhagen (2019). Must naive realists be relationalists?. European Journal of Philosophy."
+tags: ["academic","publication"]
 ---
 
 In this paper I argue that naive realism about perception can be upheld without a commitment to relationalism.

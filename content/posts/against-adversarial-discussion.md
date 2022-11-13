@@ -6,6 +6,7 @@ author: Maarten Steenhagen
 editor:
 pdf: "http://philpapers.org/archive/STEAAD-5.pdf" 
 source: "Maarten Steenhagen (2019). Against Adversarial Discussion. Collingwood and British Idealism Studies."
+tags: ["academic","publication"]
 ---
 
 In this paper I explain how to reject an adversarial style of doing philosophy on methodological grounds.

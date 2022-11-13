@@ -6,6 +6,7 @@ author: Maarten Steenhagen
 editor:
 pdf: "http://philpapers.org/archive/STEFR-4.pdf" 
 source: "Maarten Steenhagen (2019). False reflections. Philosophical Studies."
+tags: ["academic","publication"]
 ---
 
 In this paper I argue that the conviction that mirrors are optical illusions is rooted in a confusion.

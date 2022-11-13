@@ -6,6 +6,7 @@ author: Maarten Steenhagen
 editor:
 pdf: "https://philpapers.org/archive/STEFC-2.pdf" 
 source: "Maarten Steenhagen (2021). Fictional Creations. The Journal of Aesthetics and Art Criticism."
+tags: ["academic","publication"]
 ---
 
 Many people assume that fictional entities are encapsulated in the world of fiction. I show that this cannot be right. Some works of fiction tell us about pieces of poetry, music, or theatre written by fictional characters. Such creations are fictional creations, as I will call them. Their authors do not exist. But that does not take away that we can perform, recite, or otherwise generate actual instances of such works. This means we can bring such individuals actually into existence, as the works they are. I conclude that the assumption about encapsulation is untenable, unless an exception is made for types.

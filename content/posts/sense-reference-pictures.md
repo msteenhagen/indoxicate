@@ -6,6 +6,7 @@ author: Maarten Steenhagen
 editor: 
 pdf: "https://philpapers.org/archive/STESAR-12.pdf"
 source: "Maarten Steenhagen (2021). Sense and Reference of Pictures. British Journal of Aesthetics."
+tags: ["academic","publication"]
 ---
 
 In this paper I argue that a theory of pictorial representation does not require a sense/reference distinction.
