@@ -1,3 +1,0 @@
-# robots.txt file for "ex forti dulcedo." website, 
-User-agent: *
-Disallow: /
