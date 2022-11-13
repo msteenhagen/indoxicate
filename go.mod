@@ -2,7 +2,7 @@ module github.com/sergeyklay/gohugo-theme-ed/exampleSite
 
 go 1.18
 
-replace github.com/sergeyklay/gohugo-theme-ed => ../web-sep/
+replace github.com/sergeyklay/gohugo-theme-ed => ../indoxicate/
 
 require (
 	github.com/MihaiValentin/lunr-languages v0.0.0-20220731202355-707574c524a6 // indirect
