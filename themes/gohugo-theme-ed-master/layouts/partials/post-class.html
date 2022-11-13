@@ -1,8 +1,0 @@
-{{- $postClass := "page" -}}
-{{- if .IsPage -}}
-    {{- $postClass = .Type | lower | singularize -}}
-    {{- if eq $postClass "poem" -}}
-        {{- $postClass = "poem poetry" -}}
-    {{- end -}}
-{{- end -}}
-{{- $postClass -}}
