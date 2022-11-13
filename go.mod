@@ -1,3 +1,3 @@
-module github.com/msteenhagen/indoxicate/
+module github.com/msteenhagen/indoxicate
 
 go 1.19
