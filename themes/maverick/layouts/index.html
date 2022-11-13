@@ -4,7 +4,7 @@
 <body>
   <a class="skip-link" href="#main">Skip to main</a>
   <main id="main">
-    <div class="content">
+    <div class="frontcontent">
       {{ partial "header.html" . }}
       {{ .Content }}
       {{ if gt (len ( where .Site.RegularPages "Section" "posts" )) 0 }}
