@@ -1,5 +1,5 @@
 ---
-title: About
+title: Maarten Steenhagen
 ---
 I am a researcher in the Department of Philosophy at Uppsala University. Prior to coming to Uppsala I worked as a lecturer at the University of Cambridge and was a Bye-Fellow of Queens’ College. My Ph.D in Philosophy is from University College London. 
 
