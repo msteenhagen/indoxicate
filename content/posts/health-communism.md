@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Reading Health Communism"
-image = "http://indoxicate.me/img/healthcomm.png"
+image = "https://indoxicate.me/img/healthcomm.png"
 date = "2022-11-16"
 description = "Last month Health Communism appeared, and here are my reading notes. "
 tags = [
