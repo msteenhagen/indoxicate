@@ -6,10 +6,9 @@
     <!-- Twitter cards -->
     <meta name="twitter:card" content="{{ .Description }}">
     <meta name="twitter:site" content="{{ .Site.Title }}">
-    <meta name="twitter:creator" content="{{ .Author }}">
-    <meta name="twitter:title" content="{{ .Title | safeJS }}">
+    <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Summary }}">
-    <meta name="twitter:image" content="{{ .Image }}">
+    <meta name="twitter:image" content="{{ .Params.image }}">
     <!-- End Twitter cards -->
 
     <meta name="author" content="Liste - {{ .Site.BaseURL }}">
