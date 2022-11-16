@@ -58,7 +58,7 @@ But a reader (well, _this_ reader at least) is still left rather puzzled about w
 # The host body
 In conclusion, the authors say that they have shown how capitalism shapes health, and that it has shaped itself around health. In the shaping of health, capital has constructed a class division: the healthy workers on the one hand, and the ill and mad surplus populations on the other.  
 
-But if this is so, then what about the claim that everyone is ill under capitalism? Doesn’t that undermine the idea that capitalism constructed a division? I think that the authors want to say here that health is ultimately a fantasy, and that the people who are classified as healthy in society are just those who are able or willing to uphold the fantasy. And there’s a point to this. I know nobody who isn’t anxious, fatigued, sore, broken, or ill. Yet many of them would declare themselves healthy.
+But if this is so, then what about the claim that everyone is ill under capitalism? Doesn’t that undermine the idea that capitalism constructed a division? I think that the authors want to say here that health is strictly speaking a fantasy or idealisation, and that the people who are classified as healthy in society are just those who are able or willing to uphold the fantasy. And there’s a point to this. I know nobody who isn’t anxious, fatigued, sore, broken, or ill. Yet many of them would declare themselves healthy.
 
 That we are all ill under capitalism, then, means first and foremost that we’re all surplus to capital. All of our bodies are being used for profit-making, and they show the signs of it. 
 
