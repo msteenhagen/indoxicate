@@ -1,6 +1,6 @@
 +++
 author = "Maarten Steenhagen"
-title = "Review of Health Communism"
+title = "Reading Health Communism"
 date = "2022-11-16"
 description = "Review of Health Communism by Beatrice Adler-Bolton and Artie Vierkant"
 tags = [
