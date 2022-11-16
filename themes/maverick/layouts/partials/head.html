@@ -2,6 +2,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- Twitter cards -->
+    <meta name="twitter:card" content="{{ .Description | safeJS }}">
+    <meta name="twitter:site" content="{{ .Site.Title }}">
+    <meta name="twitter:creator" content="{{ .Author | safeJS }}">
+    <meta name="twitter:title" content="{{ .Title | safeJS }}">
+    <meta name="twitter:description" content="{{ .Summary | safeJS }}">
+    <meta name="twitter:image" content="{{ .Image }}">
+    <!-- End Twitter cards -->
+    
     <meta name="author" content="Liste - {{ .Site.BaseURL }}">
     <title>{{ if eq .IsHome true }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
