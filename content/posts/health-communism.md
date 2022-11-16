@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Reading Health Communism"
-image = "img/healthcommunism.jpg"
+image = "http://indoxicate.me/img/healthcommunism.jpg"
 date = "2022-11-16"
 description = "Review of Health Communism by Beatrice Adler-Bolton and Artie Vierkant"
 tags = [
