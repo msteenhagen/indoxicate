@@ -5,7 +5,7 @@ image = "https://indoxicate.me/img/healthcomm.png"
 date = "2022-11-16"
 description = "Last month Health Communism appeared. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist."
 tags = [
-    "health","communism","book review"
+    "health","communism","books","review"
 ]
 +++
 
