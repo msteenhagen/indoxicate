@@ -43,9 +43,9 @@ It is here that I found one of the most interesting discussions of the book. The
 
 Prior to TRIPS, if someone else made your drugs in some far-away country, big pharmaceutical companies had to rely on local enforcement of intellectual property laws. But with TRIPS, such breaches of intellectual property law can be construed as violations of international trade agreements, allowing for political intervention with sanctions and threats of trade restrictions. The authors give examples of how TRIPS has stymied fair access to drugs in various countries. The authors show how not only the pharmaceutical industry have learnt to wield these economic-cum-political bludgeons, but the insurance industry as well. As a result, the ‘surplus’ countries are forced to set up their entire health economies in such a way as to enable extractive abandonment by global capitalist enterprises.
 
-# Socialist Patient’s Collective
+# Socialist Patients' Collective
 
-The final two chapters of the book offer an account of the _Socialistisches Patientenkollektiv_ (Socialist Patient’s Collective, or SPK), a movement that started in the 1970s in Heidelberg, Germany. The authors say that the project of SPK is "the closest direct ideological precursor" to what they call health communism. 
+The final two chapters of the book offer an account of the _Socialistisches Patientenkollektiv_ (Socialist Patients' Collective, or SPK), a movement that started in the 1970s in Heidelberg, Germany. The authors say that the project of SPK is "the closest direct ideological precursor" to what they call health communism. 
 
 In the background of SPK is the anti-psychiatry movement (which was instrumental in popularising the social model of mental illness), which typically stuck to offering institutional critique from the position of the doctor. SPK took a different strategy, dismantling the doctor/patient opposition, and trying a political form of treatment. Wolfgang Huber was the doctor who started these experiments together with patients. They were met with a hostile institutional response, with some hostility being medical, and some political and ideological. 
 
