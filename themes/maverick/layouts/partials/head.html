@@ -5,18 +5,18 @@
     
     <!-- Twitter cards -->
     <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:description" content="{{ .Summary }}">
+    <meta property="og:description" content="{{ .Description }}">
     <meta property="og:image" content="{{ .Params.image }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{ .Site.Title }}" />
 
     <meta name="twitter:title" content="{{ .Title }}" />
-    <meta name="twitter:description" content="{{ .Summary }}" />
-    <meta name="twitter:image" content="{{ .Params.image }}" />
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="{{ .Description }}" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@msteenhagen" />
     <meta name="twitter:creator" content="@msteenhagen" />
+    <meta name="twitter:image" content="{{ .Params.image }}" />
 
 
     <!-- End Twitter cards -->
