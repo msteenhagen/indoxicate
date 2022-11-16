@@ -56,7 +56,7 @@ We must not forget here that SPK lasted less than two years, and never reached m
 But a reader (well, _this_ reader at least) is still left rather puzzled about what SPK actually did and thought. In these chapters I would have loved less theory and justification, and more history and biography. What did a day look like in the rooms of the SPK? (They were given space in the Heidelberg university hospital to gather and practice.) What did they read or discuss? This would have helped to articulate the positive ideals of Health Communism better.
 
 # The host body
-In conclusion, the authors say that they have shown how capitalism shapes health, and that it has shaped itself around health. In the shaping of health, capital has constructed a class division: the healthy workers on the one hand, and the ill and mad surplus populations.  
+In conclusion, the authors say that they have shown how capitalism shapes health, and that it has shaped itself around health. In the shaping of health, capital has constructed a class division: the healthy workers on the one hand, and the ill and mad surplus populations on the other.  
 
 But if this is so, then what about the claim that everyone is ill under capitalism? Doesn’t that undermine the idea that capitalism constructed a division? I think that the authors want to say here that health is ultimately a fantasy, and that the people who are classified as healthy in society are just those who are able or willing to uphold the fantasy. And there’s a point to this. I know nobody who isn’t anxious, fatigued, sore, broken, or ill. Yet many of them would declare themselves healthy.
 
