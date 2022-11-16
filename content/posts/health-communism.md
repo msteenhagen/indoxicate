@@ -25,7 +25,7 @@ This gets us to the second central concept of the book: extractive abandonment. 
 
 They build on Marta Russell's work on the money model of disability: instead of thinking of disability as a medical condition, or a social condition, it is importantly an _economic_ condition. Disability becomes an opportunity for public money to flow into corporate pockets. And the same holds for prisoners, or people in care homes, and developmental aid.
 
-What the authors want to say about extractive abandonment is that it is vital to capitalism, and to the state. They write that it is how the state constructs itself and its political economy through optimising the population at a demographic level.
+What the authors want to say about extractive abandonment is that it is vital to capitalism, and to the state. They write that it is how the state constructs itself and its political economy through optimising the population at a demographic level (read: eugenics).
 
 # From welfare to humanitarian extraction
 
