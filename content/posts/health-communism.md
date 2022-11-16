@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Reading Health Communism"
-image = "https://indoxicate.me/img/healthcomm.png"
+image = "https://indoxicate.me/img/spk.jpeg"
 date = "2022-11-16"
 description = "Last month Health Communism appeared. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist."
 tags = [
@@ -43,6 +43,8 @@ The report of the World Bank proposes a two-tiered system: public provisions are
 It is here that I found one of the most interesting discussions of the book. The authors describe how the pharmaceutical industry was instrumental in fusing together intellectual property rights with international trade agreements (in the TRIPS agreement: Trade-Related Aspects of Intellectual Property Rights). This effectively excluded a large part of the world from being able to develop important drugs, and relegated entire countries to ‘surplus’ status – money can be extracted from them by selling the expensive drugs they need. 
 
 Prior to TRIPS, if someone else made your drugs in some far-away country, big pharmaceutical companies had to rely on local enforcement of intellectual property laws. But with TRIPS, such breaches of intellectual property law can be construed as violations of international trade agreements, allowing for political intervention with sanctions and threats of trade restrictions. The authors give examples of how TRIPS has stymied fair access to drugs in various countries. And not only the pharmaceutical industry has learnt to wield these economic-cum-political bludgeons, but the insurance industry as well. As a result, the ‘surplus’ countries are forced to set up every aspect of their health economies in such a way as to enable extractive abandonment by global capitalist enterprises.
+
+![The SPK occupies a building of the University of Heidelberg in 1970, with a banner rolled out from the window.](/img/spk.jpeg)
 
 # Socialist Patients' Collective
 
