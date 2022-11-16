@@ -4,11 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- Twitter cards -->
-    <meta name="twitter:card" content="{{ .Description }}">
-    <meta name="twitter:site" content="{{ .Site.Title }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@msteenhagen">
     <meta name="twitter:title" content="{{ .Title }}">
     <meta name="twitter:description" content="{{ .Summary }}">
     <meta name="twitter:image" content="{{ .Params.image }}">
+    <meta name="twitter:image:alt" content="{{ .Description }}">
     <!-- End Twitter cards -->
 
     <meta name="author" content="Liste - {{ .Site.BaseURL }}">
