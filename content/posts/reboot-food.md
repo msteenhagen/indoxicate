@@ -17,9 +17,9 @@ This is bad in two ways. Live-stock farming is a massive emitter of greenhouse g
 
 ![Too many pigs in a factory farm](/img/pigs.jpeg)
 
-RebootFood wants to fix this. What do they want? Well, they want to stop animal farming. Just phase it out and make it a rarity, if not something non-existent. 
+Reboot Food wants to fix this. What do they want? Well, they want to stop animal farming. Just phase it out and make it a rarity, if not something non-existent. 
 
-In yesterday’s webinar [Sylwia Spurek](https://en.wikipedia.org/wiki/Sylwia_Spurek) said that, ideally, a ban on new farms will be introduced in 2025, and in 2040 a ban on animal agriculture altogether. Plant-based food should be subsidised, and schools should educate children about the importance of animal rights and a plant-based diet. Spurek is right. This is the only sensible way forward, though we know that governments will as always delay these policies until it’s too late. 
+In a webinar organised by Reboot Food [Sylwia Spurek](https://en.wikipedia.org/wiki/Sylwia_Spurek) said that, ideally, a ban on new farms will be introduced in 2025, and in 2040 a ban on animal agriculture altogether. Plant-based food should be subsidised, and schools should educate children about the importance of animal rights and a plant-based diet. Spurek is right. This is the only sensible way forward, though we know that governments will as always delay these policies until it’s too late. 
 
 But unfortunately, this is not all that Reboot Food want.  
 
