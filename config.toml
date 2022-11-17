@@ -31,6 +31,12 @@ theme = 'maverick'
     name = "Post"
     url = "/posts/"
     weight = -200
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/atom.xml"
+    weight = -50
+
 
 [markup]
   [markup.goldmark.renderer]
