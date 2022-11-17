@@ -2,7 +2,7 @@
 
 <img class="avatar" src="../img/about-img.jpg" alt="avatar">
 
-Welcome to my website and blog. On these pages you can find regular blog entries and essays, as well as my academic papers and teaching materials. I mostly write about philosophy, psychology, and the dreadful state of the world. 
+Welcome to my website and blog. On these pages you can find regular blog entries and essays, as well as my [academic papers](/tags/academic/) and teaching materials. I mostly write about philosophy, psychology, and the dreadful state of the world. 
 
 Should you want to know more about me, I have included a [biographical note](about/). You can also subscribe to my <a href="http://indoxicate.me/atom.xml">RSS feed</a>.
 
