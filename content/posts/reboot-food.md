@@ -59,7 +59,7 @@ Now, don’t get me wrong, I don’t believe for a second that we can do without
 
 A case in point is how the international community responded to the COVID-19 pandemic. The choreography was predictable. There we were, faced with an infectious and airborne disease, which required significant behavioural change and protective measures to suppress. A proper response would have required education, changes to behaviour and infrastructure, better air quality controls, etc. But instead, we ended up focusing all our hopes and energy on ‘precision pharmacology’, i.e. a to-be developed vaccine. And here we are, the vaccine does a reasonable job for many people, but certainly not for all and it doesn’t prevent the virus from spreading. The ‘technical fix’ wasn't a fix at al, because it didn’t address the political, cultural, and social obstacles that keep the pandemic going into its third year. But of course some people did make a lot of money. 
 
-The idea that we can prevent ecological collapse by putting our hopes and energy in a technical fix is in one word lazy. "Trust us, you don’t have to change you ways, because given sufficient investment and ingenuity someone will come up with a gadget that will fix things." 
+The idea that we can prevent ecological collapse by putting our hopes and energy in a technical fix is in one word lazy. "Trust us, you don’t have to change your ways, because given sufficient investment and ingenuity someone will come up with a gadget that will fix things." 
 
 Only the gadget won’t fix things. Not a pandemic, and not our climate. 
 
