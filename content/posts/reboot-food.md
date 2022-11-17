@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-On the 16th of November 2022 the Reboot Food campaign launched their manifesto for a new way of feeding the world’s people. The campaign is spearheaded by [George Mombiot](https://www.theguardian.com/environment/georgemonbiot), famous for bringing climate criticism into the mainstream. 
+On the 16th of November 2022 the Reboot Food campaign launched their manifesto for a new way of feeding the world’s people. The campaign is spearheaded by [George Monbiot](https://www.theguardian.com/environment/georgemonbiot), famous for bringing climate criticism into the mainstream. 
 
 The problem we face is by now as pressing as it is obvious. Agriculture is wrecking the planet, and most of this comes from animal farming. Meat, eggs, milk. A whopping 28% of all of the world’s land is being used for farm animals. 
 
@@ -63,7 +63,7 @@ The idea that we can prevent ecological collapse by putting our hopes and energy
 
 Only the gadget won’t fix things. Not a pandemic, and not our climate. 
 
-I'll close with a quote, ironically from [Mombiot himself](https://www.theguardian.com/environment/georgemonbiot/2015/sep/24/meet-the-ecomodernists-ignorant-of-history-and-paradoxically-old-fashioned): 
+I'll close with a quote, ironically from [Monbiot himself](https://www.theguardian.com/environment/georgemonbiot/2015/sep/24/meet-the-ecomodernists-ignorant-of-history-and-paradoxically-old-fashioned): 
 
 _“Beware of simple solutions to complex problems. That is a crucial lesson from history; a lesson that intelligent people in every age keep failing to learn.”_ 
 
