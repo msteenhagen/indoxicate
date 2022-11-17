@@ -4,14 +4,16 @@ title = 'Indoxicate'
 paginate = 3
 theme = 'maverick'
 
+
 [permalinks]
   posts = ":slugorfilename/"
   pages = ":filename/"
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
+  description = "Website and blog of Maarten Steenhagen"
   author = "Maarten Steenhagen"
+
 
   [params.comments]
     githubRepo = 'msteenhagen/indoxicate'
