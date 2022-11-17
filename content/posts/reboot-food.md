@@ -39,7 +39,7 @@ Note, then, that 'precision' fermentation is [not about precision at all](https:
 
 I'm not in principle opposed to synthetic food production, even if it uses genetic modification. But in a manifesto about how to save the planet from animal farming, the proposal is just too specific. 
 
-"If it rains outside, you don't just need a raincoat... you need the newest model of _FabulousBrand™_!" Any message of this form makes me suspicious, because it sounds like commercial advertising to me. The challenge of rethinking agriculture is sprawling and entwined with many other parts of society, and then it turns out there’s this ‘one weird trick’ that will solve all our problems? How convenient. 
+"If it rains outside, you don't just need any raincover... you need the newest model raincoat of _FabulousBrand™_!" Any message of this form makes me suspicious, because it sounds like commercial advertising to me. The challenge of rethinking agriculture is sprawling and entwined with many other parts of society, and then it turns out there’s this ‘one weird trick’ that will solve all our problems? How convenient. 
 
 The organisation GMWatch has already expressed its worry that Reboot Food may [turn out to be just a front](https://gmwatch.org/en/106-news/latest-news/20127-george-monbiot-teams-up-with-mark-lynas-and-ecomodernism-to-reboot-food) for the industries that currently develop genetically modified organisms (GMOs) for the food sector. 
 
