@@ -43,7 +43,7 @@ If it rains outside, you don't just need a raincoat... you need the newest model
 
 The organisation GMWatch has already expressed its worry that Reboot Food may [turn out to be just a front](https://gmwatch.org/en/106-news/latest-news/20127-george-monbiot-teams-up-with-mark-lynas-and-ecomodernism-to-reboot-food) for the industries that currently develop genetically modified organisms (GMOs) for the food sector. 
 
-I understand these concerns. The Reboot Food manifesto can easily be interpreted as a Trojan horse. Among its many sensible proposals the authors slip in that governments must "legalise gene editing, genetic modification and other new breeding techniques". 
+I understand these concerns. The Reboot Food manifesto can easily be interpreted as a Trojan horse. Among the manifesto's many sensible proposals, the authors slip in one that urges governments to "legalise gene editing, genetic modification and other new breeding techniques". 
 
 Even if you are enthusiastic about the possibilities offered by precision fermentation, there's a value to precision _legislation_ as well. The blanket allowance of controversial and potentially dangerous GM-techniques proposed by Reboot Food is the opposite of being precise and tailored.
 
