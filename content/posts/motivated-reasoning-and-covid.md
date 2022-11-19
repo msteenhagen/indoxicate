@@ -12,7 +12,7 @@ tags = [
 
 Motivated reasoning is a familiar experimenter bias. An experimenter bias is any influence a researcher may have on the results of his or her research, derived from either interaction with participants or unintentional errors of observation, measurement, analysis, or interpretation ([APA Dictionary of Psychology](https://dictionary.apa.org/experimenter-effect)). 
 
-To put it simply, because you want something to be true, you unconsciously steer your inquiry in such a way as to reach just that conclusion. When this happens, conclusions or interpretations are shaped by their desirability instead of purely by the available evidence.
+To put it simply, because you want something to be true, you unconsciously steer your enquiry in such a way as to reach just that conclusion. When this happens, conclusions or interpretations are shaped by their desirability instead of purely by the available evidence.
 
 Unconscious bias is potent and can influence research at all stages: data gathering, selection of samples, classification, and interpretation of results. And unfortunately, motivated reasoning is ubiquitous in science.
 
