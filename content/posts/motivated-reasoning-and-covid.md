@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Motivated reasoning during a pandemic"
-image = "https://indoxicate.me/img/scientist.png"
+image = "https://indoxicate.me/img/scientist.jpg"
 date = "2022-11-19"
 description = "Motivated reasoning is a familiar experimenter bias. Especially during the pandemic, which we all want to be over, this phenomenon is rife both within science and outside it."
 tags = [
@@ -42,4 +42,4 @@ Here I have in mind the GP who will not test her patients for the virus, because
 
 Through this type of cognitive bias, a society can quite successfully convince itself everything's alright. Even when it isn't. 
 
-![Cartoon of a scientist thinking with her goal in sight](/img/scientist.png)
+![Cartoon of a scientist thinking with her goal in sight](/img/scientist.jpg)
