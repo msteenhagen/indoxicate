@@ -20,15 +20,19 @@ An interesting possible case I came across today was a study about mortality in 
 
 ## How rarely do children die of COVID-19?
 
-The paper '[COVID-19 deaths in children and young people in England, March 2020 to December 2021](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004118)' looked at all 185 deaths in the under-twenties in England who had tested positive for SARS-CoV-2 in the 100 days before their death. Which of these people actually died of their infection with the virus? 
-
 ![Screenshot of the article in PLOS Medicine](/img/plos.png)
+
+The paper '[COVID-19 deaths in children and young people in England, March 2020 to December 2021](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004118)' looked at all 185 deaths in the under-twenties in England who had tested positive for SARS-CoV-2 in the 100 days before their death. Which of these people actually died of their infection with the virus? 
 
 The authors conclude that, reassuringly, the number is very low. And that's of course the conclusion we all want to hear! Satisfying. 
 
 But should we believe it? The fact that the paper's conclusion is clearly _desirable_ should put us on high alert. Not only is it obviously desirable that few young people die of COVID-19, the conclusion also fits a narrative of SARS-CoV-2 as ultimately a mild virus we can live with without doing much about it. That narrative quite clearly has a strong magnetic effect on people. And scientists are people too.  
 
-Sabina Vohra-Miller [points out](https://twitter.com/SabiVM/status/1593994785077198848?s=20&t=qa_wuMP0Kz4p6UPDiKzU-A) that the authors quite conveniently removed half of the deaths because they judged that COVID-19 wasn't the cause of death, even though this was the cause specified on their death certificates. And they also, again conveniently, excluded deaths due to MIS-C (Multisystem inflammatory syndrome in children), even though this is a well-known consequence of an infection with SARS-COV-2 in children. These are the kinds of researcher interventions that are potentially influenced by unconscious biases.
+Sabina Vohra-Miller [points out](https://twitter.com/SabiVM/status/1593994785077198848?s=20&t=qa_wuMP0Kz4p6UPDiKzU-A) that the authors quite conveniently removed some young people from their final dataset. 
+
+{{< tweet user="SabiVM" id="1593994785077198848" >}}
+
+Notably, the authors removed half of the deaths because they judged that COVID-19 wasn't the cause of death, even though this was the cause specified on their death certificates. And they also, again conveniently, excluded deaths due to MIS-C (Multisystem inflammatory syndrome in children), even though this is a well-known consequence of an infection with SARS-COV-2 in children. These are the kinds of researcher interventions that are potentially influenced by unconscious biases.
 
 Of course the authors have rationalised these decisions to themselves and to their reader. They are convinced they made the right call. But it's hard to deny that the conditions here are ideal for experimenter bias: a desirable outcome combined with a moment of personal judgment by the researchers themselves.  
 
