@@ -47,5 +47,3 @@ But I fear that the bias is common also in the non-scientific world. Because peo
 Here I have in mind the GP who will not test her patients for the virus, because community spread is allegedly low (it isn't). Or the school teacher who attributes the increase in exhaustion or distractedness of his pupils to stress or mental health problems due to a situation at home. The employer who demands an explanation of a shrinking workforce without wanting to entertain that Long Covid could have something to do with it. Or people who have lingering symptoms of COVID-19 and who convince themselves it's not that bad because they believe the virus is mild (again, it isn't). 
 
 Through this type of cognitive bias, a society can quite successfully convince itself everything's alright. Even when it isn't. 
-
-![Cartoon of a scientist thinking with her goal in sight](/img/scientist.jpg)
