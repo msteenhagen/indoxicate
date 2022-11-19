@@ -22,6 +22,8 @@ An interesting possible case I came across today was a study about mortality in 
 
 The paper '[COVID-19 deaths in children and young people in England, March 2020 to December 2021](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004118)' looked at all 185 deaths in the under-twenties in England who had tested positive for SARS-CoV-2 in the 100 days before their death. Which of these people actually died of their infection with the virus? 
 
+![Screenshot of the article in PLOS Medicine](/img/plos.png)
+
 The authors conclude that, reassuringly, the number is very low. And that's of course the conclusion we all want to hear! Satisfying. 
 
 But should we believe it? The fact that the paper's conclusion is clearly _desirable_ should put us on high alert. Not only is it obviously desirable that few young people die of COVID-19, the conclusion also fits a narrative of SARS-CoV-2 as ultimately a mild virus we can live with without doing much about it. That narrative quite clearly has a strong magnetic effect on people. And scientists are people too.  
