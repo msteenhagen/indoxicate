@@ -42,4 +42,4 @@ Here I have in mind the GP who will not test her patients for the virus, because
 
 Through this type of cognitive bias, a society can quite successfully convince itself everything's alright. Even when it isn't. 
 
-![Cartoon of a scientist thinking](/img/scientist.png)
+![Cartoon of a scientist thinking with her goal in sight](/img/scientist.png)
