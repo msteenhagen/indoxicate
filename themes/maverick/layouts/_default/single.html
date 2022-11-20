@@ -9,6 +9,9 @@
     <section>
       <h1 class="post">{{ .Title }}</h1>
       {{ .Content }}
+      <div>
+        <hr>
+      </div>
       {{ if eq .Section "posts" }}
       <div class="post-date">
         <span class="g time">{{.Date.Format "January 2, 2006"}} </span> &#8729;
@@ -19,6 +22,10 @@
         {{- end -}} {{- end -}}
         {{ end }} &#8729; <a href="/atom.xml">RSS</a>
       </div>
+      <div>
+        <span class="text-stone-500 animate-blink">🧠</span><i><a href="http://eepurl.com/idUvuf" target="blank"> Subscribe to my newsletter</a></i>
+      </div>
+
       {{ end }}
     </section>
     {{ if eq .Section "posts" }}

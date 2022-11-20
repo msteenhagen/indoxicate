@@ -36,6 +36,12 @@ theme = 'maverick'
     name = "RSS"
     url = "/atom.xml"
     weight = -50
+  [[menu.main]]
+    identifier = "rss"
+    name = "Newsletter"
+    url = "http://eepurl.com/idUvuf"
+    weight = 20
+
 
 
 [markup]

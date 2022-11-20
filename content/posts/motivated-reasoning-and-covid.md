@@ -5,7 +5,7 @@ image = "https://indoxicate.me/img/scientist.jpg"
 date = "2022-11-19"
 description = "Motivated reasoning is a familiar experimenter bias. Especially during the pandemic, which we all want to be over, this phenomenon is rife both within science and outside it."
 tags = [
-    "COVID-19","pandemic","science","bias"
+    "covid-19","pandemic","science","bias"
 ]
 +++
 
