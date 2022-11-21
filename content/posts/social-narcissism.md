@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Social Narcissism"
-image = "https://indoxicate.me/img/laytoncover.png"
+image = "https://indoxicate.me/img/laytoncover.jpg"
 date = "2022-11-21"
 description = "Layton's work on social narcissism helps us to understand the psychological dynamics that underpin today's social divisions."
 tags = [
