@@ -34,5 +34,5 @@ Layton describes how, to deal with such threats, neoliberal subjectivity has ado
 
 In my [essays on health supremacy](/dont-be-a-health-supremacist/) I tried to articulate a similar dynamic, although I did not venture to articulate the psychology of it. I did also not characterise the current ideal citizen in terms of wealth, but in terms of health. 'Healthy people are better people,' that's the core of the health supremacist ideology. But in a society where care is increasingly the privilege of those that can afford it, the connection between health and wealth is of course all too easy to establish. 
 
-I think that Layton's work on social narcissism helps us to construe the psychological dynamics that underpin the social divisions we see in today's society. The concept of projective identification can perhaps help us understand why so much aggression is directed to those who remind us that everyone is vulnerable and dependent. 
+I think that Layton's work on social narcissism helps us to construe the psychological dynamics that underpin the social divisions we see in today's society. The concept of projective identification can perhaps help us understand why so much aggression is directed at those who remind us that everyone is vulnerable and dependent. 
 
