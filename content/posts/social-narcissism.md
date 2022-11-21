@@ -12,7 +12,7 @@ tags = [
 
 > _Our current social conditions of increasing income inequality, downsizing, outsourcing, high unemployment---extremely high in some groups---and generally precarious feelings about the economic situation have created much anxiety about class status and well-being in all classes. This has led, on the one hand, to split states of immense vulnerability and insecurity, and on the other, to public hatred of any signs of vulnerability and dependency. Dependency has come to signify “poor” and “failure.”_ (Layton, 'Yale, fail, jail' 2020)
 
-For a reading group with some friends I read a chapter from Lynne Layton's recent book _Toward a Social Psychoanalysis_. Layton is an Assistant Clinical Professor of Psychology at the Harvard Medical School. She argues that the the social inequalities realised by neoliberalism lead to a condition she calls 'social narcissism'. 
+For a reading group with some friends I read a chapter from Lynne Layton's recent book [_Toward a Social Psychoanalysis_](https://www.taylorfrancis.com/books/mono/10.4324/9781003023098/toward-social-psychoanalysis-lynne-layton-marianna-leavy-sperounis). Layton is an Assistant Clinical Professor of Psychology at the Harvard Medical School. She argues that the the social inequalities realised by neoliberalism lead to a condition she calls 'social narcissism'. 
 
 The hallmark of social narcissism is the perverse tendency of people to experience their own fate as entirely separate from the fate of other people, and to protect aggressively a fantasy of self-independence.
 
