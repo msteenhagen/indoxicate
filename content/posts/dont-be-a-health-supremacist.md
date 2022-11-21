@@ -4,7 +4,7 @@ title = "Loathe Fascism? Then don't be a health supremacist"
 date = "2022-05-10"
 description = ""
 tags = [
-    "health","pandemic"
+    "health", "pandemic" 
 ]
 +++
 
