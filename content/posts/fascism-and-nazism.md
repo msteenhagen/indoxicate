@@ -13,7 +13,7 @@ R.G. Collingwood's article ['Fascism and Nazism'](https://philpapers.org/rec/RGC
 
 Collingwood's answer to this question continues to trouble me. Part of me just doesn't want to believe it. It is that the democracies in Europe have become secular societies. We've lost religion.  
 
-In particular, Collingwood writes, it is because the magical and emotional elements of Christianity have all been dismissed as unscientific superstition, and no longer form a part of the majority of people's lives. As Collingwood writes: 
+In particular, Collingwood writes, it is because the magical and emotional elements of Christianity have all been dismissed as unscientific superstition, and no longer form a part of the majority of people's lives. As an atheist, I cannot but raise my hand in recognition. But as Collingwood writes: 
 
 > The real ground for the 'liberal' or 'democratic' devotion to freedom was religious love of a God who set an absolute value on every individual human being. Free speech and free inquiry concerning political and scientific questions; free consent in issues arising out of economic activity; free enjoyment of the produce won by a man's labour---the opposite of all tyranny and oppression, exploitation and robbery---these were ideals based on the infinite dignity or worth of the human individual; and on the fact that God loved the human individual and Christ had died for him.
 
