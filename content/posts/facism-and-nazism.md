@@ -11,7 +11,7 @@ tags = [
 
 R.G. Collingwood's article ['Fascism and Nazism'](https://philpapers.org/rec/RGCFAN) (1940) is relevant to think about today. It's main aim is to explain how fascism and nazism can get off the ground. How can it be that in countries where a clear majority of people share the values of liberal democracy, fascistic groups, groups that overtly threaten democracy and undermine the ideal of freedom for all people, gain a foothold, grow in force, and, at least in Collingwood's lifetime, seize power? 
 
-But Collingwood's answer to this question continues to trouble me. Part of me just doesn't want to believe it. It is that the democracies in Europe have become secular societies. We've lost religion.  
+Collingwood's answer to this question continues to trouble me. Part of me just doesn't want to believe it. It is that the democracies in Europe have become secular societies. We've lost religion.  
 
 In particular, Collingwood writes, it is because the magical and emotional elements of Christianity have all been dismissed as unscientific superstition, and no longer form a part of the majority of people's lives. As Collingwood writes: 
 
