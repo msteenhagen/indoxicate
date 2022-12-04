@@ -28,7 +28,7 @@ MacAskill wants us to think of both ideas (that we should show heightened concer
 
 To be clear, I think the positive programme associated with all this is megalomanic and misguided. For one thing, it's impossible to upload your mind to a computer (that people think it's possible is due to the distorted lens through which many remember Descartes's legacy ). And even if you think that we can scale up humanity in a non-virtual way, the problem of ethics is simply not one of scalability---it is perhaps not a surprise that the ethical programme MacAskill outlines is popular in Silicon Valley, where the default problem is always one of scalability.
 
-But I want to set these points of criticism aside. I think that even before making such observations about the programme's assumptions, and before we start a discussion about the programme's merits, we should object to the name MacAskill and others have used for this view: _longtermism_. 
+But I want to set these points of criticism aside. I think that even before making such observations about the programme's assumptions, and before we start a discussion about the programme's merits (or lack thereof), we should object to the name MacAskill and others have used for this view: _longtermism_. 
 
 That name implies that this is _the_ programme that cares about the future, _the_ programme that is willing to take the long view of things. 
 
