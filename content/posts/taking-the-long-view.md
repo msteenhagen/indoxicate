@@ -34,7 +34,7 @@ That name implies that this is _the_ programme that puts the future first, _the_
 
 Names are superficial, but they matter. Even though they're not in themselves truth-evaluable theses, names often bring covert presuppositions to a discussion. Often it is wise to look cautiously at the dialectical work a name does before we accept its use, and to [block](https://www.abc.net.au/religion/how-to-undo-things-with-words-blocking-as-counter-evil-speech/10985924) use of the name if this dialectical work is illegitimately undermining what we want to say or do, e.g. undermining our own views even before discussion has begun. And I propose that blocking is exactly what we should do in this case. We should refuse the name MacAskill and his sympathisers have appropriated. It's ill-suited and misleading.  
 
-MacAskill's act of baptism I quoted above implies that anyone who's not on board with the programme he advances, with the idea that the problem of ethics is one of scalability, is someone who only has eye for the short term. His appropriation of 'longtermism' presupposes that anyone who does not think that human extinction is our most important ethical problem takes a short-sighted, myopic view of things. This is misleading and wrong.
+MacAskill's act of baptism I quoted above implies that anyone who's not on board with the programme he advances, with the idea that the problem of ethics is one of scalability, is someone who only really has eye for the short term. His appropriation of 'longtermism' presupposes that anyone who does not think that human extinction is our most important ethical problem takes a short-sighted, myopic view of things. This is misleading and wrong.
 
 ![The beamed ceiling of New College, Oxford](/img/ceiling.jpeg)
 
