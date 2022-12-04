@@ -26,7 +26,7 @@ What does this mean? MacAskill means that because we can influence the size of f
 
 MacAskill wants us to think of both ideas (that we should show heightened concern for the future, and that we should be concerned with promoting trillions of possible future lives) as the same, but they are not. 
 
-To be clear, I think the positive programme associated with all this is megalomanic and misguided. For one thing, it's impossible to upload your mind to a computer (that people think it's possible is due to the distorted lens through which Descartes's legacy in generally remembered). And even if you think that we can scale up humanity in a non-virtual way, the problem of ethics is simply not one of scalability---it is perhaps not a surprise that the ethical programme MacAskill outlines is popular in Silicon Valley, where the default problem is always one of scalability.
+To be clear, I think the positive programme associated with all this is megalomanic and misguided. For one thing, it's impossible to upload your mind to a computer (that people think it's possible is due to the distorted lens through which many remember Descartes's legacy ). And even if you think that we can scale up humanity in a non-virtual way, the problem of ethics is simply not one of scalability---it is perhaps not a surprise that the ethical programme MacAskill outlines is popular in Silicon Valley, where the default problem is always one of scalability.
 
 But I want to set these points of criticism aside. I think that even before making such observations about the programme's assumptions, and before we start a discussion about the programme's merits, we should object to the name MacAskill and others have used for this view: _longtermism_. 
 
