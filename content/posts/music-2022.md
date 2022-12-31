@@ -67,7 +67,7 @@ After an episode of [Late Junction](https://www.bbc.co.uk/programmes/b006tp52) o
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1748538037/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://matmos.bandcamp.com/album/regards-uk-ony-dla-bogus-aw-schaeffer">Regards/Ukłony dla Bogusław Schaeffer by Matmos</a></iframe>
 
-Matmos is another of those names that have been with me for a long time. The first if their albums I played over and over again was [The Civil War](https://www.youtube.com/watch?v=0yZc4MkrFGU) from 2003. It sounds like an electronic music studio that got timewarped back into the middle ages. 
+Matmos is another of those names that have been with me for a long time. The first of their albums I played over and over again was [The Civil War](https://www.youtube.com/watch?v=0yZc4MkrFGU) from 2003. It sounds like an electronic music studio that got timewarped back into the middle ages. 
 
 # June
 
