@@ -63,7 +63,7 @@ My first encounter with Scholl's work was when I watched Simon Schama's TV-serie
 
 ## Matmos, Fight to Sodom / Lot do Salo
 
-After an episode of [Late Junction](https://www.bbc.co.uk/programmes/b006tp52) on BBC Radio 4, my favourite radio show by quite some distance, I rediscovered the work of Matmos. Their new album _Regards​/​Uk​ł​ony dla Bogus​ł​aw Schaeffer_ once more is proof that Matmos is, well, hard to pin down. Clicks and cuts: samples: instruments clearly invented for the occasion: all with a good dose of British wit. 
+After an episode of [Late Junction](https://www.bbc.co.uk/programmes/b006tp52) on BBC Radio 3, my favourite radio show by quite some distance, I rediscovered the work of Matmos. Their new album _Regards​/​Uk​ł​ony dla Bogus​ł​aw Schaeffer_ once more is proof that Matmos is, well, hard to pin down. Clicks and cuts: samples: instruments clearly invented for the occasion: all with a good dose of British wit. 
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1748538037/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://matmos.bandcamp.com/album/regards-uk-ony-dla-bogus-aw-schaeffer">Regards/Ukłony dla Bogusław Schaeffer by Matmos</a></iframe>
 
