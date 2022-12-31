@@ -12,7 +12,7 @@ tags = [
 
 To celebrate the end of the year, I've gone through the songs and albums that I've played most during 2022. 
 
-It's a catholic collection, but listening back to them now I can see there are unmistakable sites of overlap. I'll leave it to you to find them, and I hope you'll find something of your liking as well. 
+It's a catholic collection, but listening back to these songs, soundscapes, and melodies now I can see there are unmistakable sites of overlap. I'll leave it to you to find them, and I hope you'll find something of your liking as well. 
 
 # January
 
