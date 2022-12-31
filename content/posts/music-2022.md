@@ -85,7 +85,7 @@ When I walked into a coffee shop in New York City, some time in 2014, I was met 
 
 <div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/191995589?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
-The album cover is fantastic as well. And if you're into the delightful aesthetic niche Mockasin has carved out, don't miss the few songs by [Soft Hair](https://www.youtube.com/watch?v=eFkAjX0Gz8Y) that are in circulation. It's Mockasin's collaboration with Sam Dust (a.k.a. LA PRIEST and Late of The Pier) under the band name . 
+The album cover is fantastic as well. And if you're into the delightful aesthetic niche Mockasin has carved out, don't miss the few songs by [Soft Hair](https://www.youtube.com/watch?v=eFkAjX0Gz8Y) that are in circulation. Soft Hair is Mockasin's collaboration with Sam Dust (a.k.a. LA PRIEST and Late of The Pier). 
 
 
 # August
