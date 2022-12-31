@@ -77,9 +77,9 @@ There's experiment in the main stream as well. I closely follow what the PC Musi
 
 <div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/215215185?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
-# Juli
+# July
 
-## 
+## Connan Mockasin, Jass Two
 
 When I walked into a coffee shop in New York City, some time in 2014, I was met with the curious awkwardness of Connan Mockasin (for the record, [this was](https://www.youtube.com/watch?v=Teyy1A_AJso) the exact song that kept me spellbound for days). From New Zealand, Mockasin has carved out a vocal register that is so distinctive and strange I don't think there'll be many artist who wish to repeat it. But it's utterly compelling and brilliant. He's an awsome musician as well. Connan Mockasin's most recent album _Jassbuster Two_ is faily traditional by his own standard, and it is very much a sequel to the earlier and somewhat more experimental _Jassbusters_. 
 
