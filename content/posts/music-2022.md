@@ -2,7 +2,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "The music of 2022"
-image = "https://indoxicate.me/img/musictips.png"
+image = "https://indoxicate.me/img/musictips.jpg"
 date = "2022-12-31"
 description = "Here's a list of some of the music I listened to this year."
 tags = [
