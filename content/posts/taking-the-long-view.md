@@ -8,7 +8,7 @@ tags = [
     "longtermism","ethics","future","extinction", "death"]
 +++
 
-How bad would human extinction be? To my mind, it seems that it all depends on _how_ it happens. It would be strange to think that we should prevent extinction at all costs---in part because extinction inevitable.  
+How bad would human extinction be? To my mind, it seems that it all depends on _how_ it happens. It would be strange to think that we should prevent extinction at all costs---in part because extinction is inevitable.  
 
 There's a useful parallel here with one's own extinction, one's future death. One's death is inevitable, but it need not be something to dread or fear. Yes, death becomes troubling when it is unjust, avoidable, unnecessary, or untimely. But in a life, death is often not the worst thing that could happen. Life can be more horrible than death. 
 
