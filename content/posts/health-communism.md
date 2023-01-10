@@ -3,13 +3,13 @@ author = "Maarten Steenhagen"
 title = "Reading Health Communism"
 image = "https://indoxicate.me/img/spk.jpeg"
 date = "2022-11-16"
-description = "Last month Health Communism appeared. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist."
+description = "In October 2022, Health Communism appeared. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist."
 tags = [
     "health","communism","books","review"
 ]
 +++
 
-Last month _Health Communism_ appeared, a book written by Beatrice Adler-Bolton and Artie Vierkant. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist. Consider, what shape should the fight against capital take? The authors reject the traditional Marxist proposal of reclaiming the means of production and initiate some kind of labour revolution. Instead, capitalism's demise requires reclaiming health---a revolution of the 'sick proletariat'. 
+In October 2022, [_Health Communism_](https://www.versobooks.com/books/4081-health-communism) appeared, a book written by Beatrice Adler-Bolton and Artie Vierkant. It is an ambitious theoretical pamphlet. Its main ambition is to fuel the fight against capitalism, but with a twist. Consider, what shape should the fight against capital take? The authors reject the traditional Marxist proposal of reclaiming the means of production and initiate some kind of labour revolution. Instead, capitalism's demise requires reclaiming health---a revolution of the 'sick proletariat'. 
 
 # The surplus 
 
