@@ -20,7 +20,7 @@ Wellicht onbedoeld reduceert de campagne maatschappelijke misstanden tot ongemak
 
 Dit is een heel beperkte manier van denken. Van een onderwerp overstroomt immers je huis niet. Van een dijkdoorbraak wel. Een ongemakkelijk gesprek is niet dodelijk, maar iemand die op de vlucht is weken in de buitenlucht op een matje laten slapen wel. Als iemand niet kan zijn wie ze is, dan is dat geen discussieonderwerp maar een beperking van autonomie en welzijn. 
 
-SIRE moedigt mensen nu aan om als fervente polarisatiebestrijders schoon schip te maken. Ik denk dat dit het alleen maar makkelijker zal maken om de problemen waar we als samenleving voor staan, en die in de laatste paar jaar bespreekbaarder zijn geworden, weer terug onder tafel te duwen.
+SIRE moedigt mensen nu aan om als fervente polarisatiebestrijders schoon schip te maken. Ik denk dat dit het alleen maar makkelijker zal maken om de problemen waar we als samenleving voor staan, en die in de laatste paar jaar meer bespreekbaar zijn geworden, weer terug onder tafel te duwen.
 
 ## De vingers tegen de lippen
 
