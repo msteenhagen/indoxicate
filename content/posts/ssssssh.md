@@ -28,7 +28,7 @@ In een [interview met Nieuwsuur](https://twitter.com/Nieuwsuur/status/1612917998
 
 De groots opgezette campagne biedt een door de TV gesponsorde en schijnbaar landelijk goedgekeurde manier om de vingers tegen de lippen te houden en 'ssssssh' te zeggen als iemand je aanspreekt op je gedrag, of als een vriend of familielid een duidelijke lijn wil trekken over wat acceptabel is binnen een relatie.
 
-![Een pentekening van een man die zijn vingers tegen de lippen drukt. Sssssh...!](img/shhh.png)
+![Een pentekening van een man die zijn vingers tegen de lippen drukt. Sssssh...!](https://indoxicate.me/img/shhh.jpg)
 
 Zo'n nationale 'ssssssh' zal op twee manieren vooruitgang in de weg zitten. 
 
