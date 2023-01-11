@@ -24,7 +24,7 @@ SIRE moedigt mensen nu aan om als fervente polarisatiebestrijders schoon schip t
 
 ## De vingers tegen de lippen
 
-In een [interview met Nieuwsuur](https://twitter.com/Nieuwsuur/status/1612917998872035328) zegt de directeur van SIRE Lucy van der Helm dat hun nieuwe campagne er met name op is gericht om mensen die polariseren zich bewust te maken waar ze mee bezig zijn. Echter, ik denk dat in de praktijk de campagne nieuw stuk munitie geeft aan mensen die juist van zichzelf vinden dat ze _niet_ polariseren. 
+In een [interview met Nieuwsuur](https://twitter.com/Nieuwsuur/status/1612917998872035328) zegt de directeur van SIRE Lucy van der Helm dat hun nieuwe campagne er met name op is gericht om mensen die polariseren zich bewust te maken waar ze mee bezig zijn. Echter, ik denk dat in de praktijk de campagne een nieuw stuk munitie geeft aan mensen die juist van zichzelf vinden dat ze _niet_ polariseren. 
 
 De groots opgezette campagne biedt een door de TV gesponsorde en schijnbaar landelijk goedgekeurde manier om de vingers tegen de lippen te houden en 'ssssssh' te zeggen als iemand je aanspreekt op je gedrag, of als een vriend of familielid een duidelijke lijn wil trekken over wat acceptabel is binnen een relatie.
 
