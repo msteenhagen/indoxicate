@@ -1,6 +1,6 @@
 +++
 author = "Maarten Steenhagen"
-title = "De nieuwe campagne van SIRE drukt maatschappelijke problemen terug onder de tafel"
+title = "SIRE drukt maatschappelijke problemen terug onder de tafel"
 image = "https://indoxicate.me/img/shhh.jpg"
 date = "2023-01-11"
 description = "De stichting SIRE lanceerde een campagne tegen 'polarisatie'. Ik denk dat er achter hun schijnbaar verzoenende boodschap iets meer schuilt, en dat het wel eens meer kapot zou kunnen maken dan ons lief is."
