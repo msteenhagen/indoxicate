@@ -26,7 +26,7 @@ SIRE moedigt mensen nu aan om als fervente polarisatiebestrijders schoon schip t
 
 In een [interview met Nieuwsuur](https://twitter.com/Nieuwsuur/status/1612917998872035328) zegt de directeur van SIRE Lucy van der Helm dat hun nieuwe campagne er met name op is gericht om mensen die polariseren zich bewust te maken waar ze mee bezig zijn. Echter, ik denk dat in de praktijk de campagne een nieuw stuk munitie geeft aan mensen die juist van zichzelf vinden dat ze _niet_ polariseren. 
 
-De groots opgezette campagne biedt een door de TV gesponsorde en schijnbaar landelijk goedgekeurde manier om de vingers tegen de lippen te houden en 'ssssssh' te zeggen als iemand je aanspreekt op je gedrag, of als een vriend of familielid een duidelijke lijn wil trekken over wat acceptabel is binnen een relatie.
+De groots opgezette campagne biedt een door de TV gesponsorde en schijnbaar landelijk goedgekeurde manier om de vingers tegen de lippen te houden en 'ssssssh' te zeggen als iemand je aanspreekt op je gedrag, of als een vriend of familielid een duidelijke lijn wil trekken over wat acceptabel is binnen een relatie. De model-Nederlander moet niet moeilijk willen doen.
 
 ![Een pentekening van een man die zijn vingers tegen de lippen drukt. Sssssh...!](https://indoxicate.me/img/shhh.jpg)
 
@@ -38,10 +38,12 @@ Daarnaast zal een nationale 'ssssssh' meer doen dan kritiek en bewustmaking in d
 
 ## Soms is het geen goed moment om te verzoenen
 
-"Geen enkele sociale vooruitgang," [schreef Seada Nourhussen](https://www.oneworld.nl/lezen/opinie/het-midden-is-allesbehalve-redelijk/) in 2020," is er gekomen door de lieve vrede te bewaren." De grote problemen waar de maatschappij op het ogenblik mee is geconfronteerd liegen er niet om. De klimaatramp die zich steeds duidelijker buiten mijn raam voltrekt; het afbrokkelen van een sociaal besef en de daarmee gepaard gaande aftakeling van het zorgstelsel en vangnetten; het steeds triomfantelijk wordende racisme en de groeiende haat tegen mensen die op er op een of andere manier niet op de juiste manier uitzien. Dat zijn de dingen die we actief zouden moeten bestrijden. 
+"Geen enkele sociale vooruitgang," [schreef Seada Nourhussen](https://www.oneworld.nl/lezen/opinie/het-midden-is-allesbehalve-redelijk/) in 2020," is er gekomen door de lieve vrede te bewaren." De grote problemen waar de maatschappij op het ogenblik mee is geconfronteerd liegen er niet om. De klimaatramp die zich steeds duidelijker buiten mijn raam voltrekt; het afbrokkelen van een sociaal besef en de daarmee gepaard gaande aftakeling van het zorgstelsel en vangnetten; het steeds triomfantelijk wordende racisme en de groeiende haat tegen mensen die op er op een of andere manier niet op de juiste manier uitzien. Dat zijn de dingen die we actief zouden moeten bestrijden.  
 
 SIRE is een initiatief van de reclamebranche en staat los van democratisch gecontroleerde overheidsinstanties. Het is altijd maar afwachten waar ze nu weer mee zullen komen. Hun nieuwste campagne lijkt een verzoenende boodschap te brengen. Maar met veel van de problemen waar we voor staan is het niet de tijd voor verzoening. Ik denk dat de nieuwe slogans van SIRE er toe zullen bijdragen dat dringende maatchappelijke problemen zullen worden afgewimpeld als slechts onprettige discussies en verschillen van mening. 
 
-Onrechtvaardigheid en ongelijkheid? Moeilijke onderwerpen waar we de sfeer niet door moeten laten verzieken. Ssssssh... Zolang we er niet over praten, is er niets aan de hand, toch? 
+Onrechtvaardigheid en ongelijkheid? Moeilijke onderwerpen waar we de sfeer niet door moeten laten verzieken. Een verstandige burger houdt zijn of haar kritiek voor zich, en gaat conflicten uit de weg. 
+
+Ssssssh... Zolang we er niet over praten, is er niets aan de hand, toch? 
 
 
