@@ -12,7 +12,7 @@ tags = [
 
 Gisteren lanceerde [SIRE](https://sire.nl) (Stichting Ideële Reclame) een campagne om 'polarisatie' tegen te gaan. 'Polariserende onderwerpen', zoals de klimaatramp die zich voor onze ogen voltrekt, of alledaags en institutioneel racisme, drijven mensen uit elkaar, zo zegt SIRE. En dat is niet goed, vinden ze. Zulke 'polariserende' situaties moeten voorkomen worden. 
 
-Wellicht onbedoeld reduceert de campagne maatschappelijke mistanden tot ongemakkelijke meningsverschillen. Gezien de urgente problemen waar we als maatschappij voor staan zouden de spotjes wel eens meer kapot kunnen maken dan ons lief is.
+Wellicht onbedoeld reduceert de campagne maatschappelijke misstanden tot ongemakkelijke meningsverschillen. Gezien de urgente problemen waar we als maatschappij voor staan zouden de spotjes wel eens meer kapot kunnen maken dan ons lief is.
 
 ## Een vreemd denkraam
 
