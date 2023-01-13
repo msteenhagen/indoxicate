@@ -26,7 +26,7 @@ Anyone who is familiar with Dutch society should already be able to spot the eff
 
 Needless to say, this is not the fault of children. I think it is fairly uncontroversial to see the decline in literacy and comprehension as a systemic failing, a result of how society at large has ceased to value the ability to read, write, and to reflect and understand. (Consider, it's not only children that read worse---their parents do so too.)
 
-In this light, I think it's crucial to see these declines against the backdrop of a much bigger picture, one that extends well beyond the specific of the education system. Where is society heading?  
+In this light, I think it's crucial to see these declines against the backdrop of a much bigger picture, one that extends well beyond the specifics of the education system. Where is society heading?  
 
 The answer is: towards a de-skilled society. More and more, _thinking itself_ is being turned into a service, a product that is offered by some company or other. When people look for answers or want to understand something, they turn to Google, Bing, or to social media. There, they are likely to find easily digestible, byte-sized snippets that will do for most practical purposes. Consultancy, instead of being a specialist service, has become a mainstream staple. 
 
