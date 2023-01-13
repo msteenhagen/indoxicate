@@ -1,6 +1,6 @@
 +++
 author = "Maarten Steenhagen"
-title = "Thinking As A Service"
+title = "Thinking as a Service"
 image = "https://indoxicate.me/img/reading.jpg"
 date = "2023-01-13"
 description = "When we worry about declining literacy in societies that should very well be able to afford decent education, we should not look too narrowly when we look for causes. The less capable people are to read, the easier it will be to exploit their helplessness for profit."
