@@ -19,7 +19,7 @@ Similarly, and closer to the point I want to make later on, in a recent _Nature_
 Chances, probabilities, likelihoods. We've heard a lot about those during the last few years. However, risk assessment is not only about probability or chance. If you want to determine the risk of something, you should be thinking just as much about the severity of the consequences: How bad would it be if x happened? 
 
 
-![Person standing in a rain shower](../img/rain.jpg)
+![Person sitting in a rain shower with a book over their head](../img/rain.jpg)
 
 
 ## Umbrellas and seatbelts 
