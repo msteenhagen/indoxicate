@@ -40,7 +40,7 @@ Generally, we should calculate risk with the following formula:
 
 When we let our assessments of risks be guided by this formula, we will see that the more severe the consequences of an outcome are, the less the probability of those consequences matters. 
 
-When [Sir Christopher Wren](https://en.wikipedia.org/wiki/Christopher_Wren) designed the famous library at Trinity College (1676–84)	, in his design he factored in flooding. The library is raised on pillars high above the ground. Was there a high chance of flooding? No. But the consequences of damage to the precious library would be so devastating, that even the low probability of the river Cam's leaving its banks was enough to build in flood defences. The chance was low, but the risk was high.
+When [Sir Christopher Wren](https://en.wikipedia.org/wiki/Christopher_Wren) designed the famous library at Trinity College (1676–84), in his design he factored in flooding. The library is raised on pillars high above the ground. Was there a high chance of flooding? No. But the consequences of damage to the precious library would be so devastating, that even the low probability of the river Cam's leaving its banks was enough to build in flood defences. The chance was low, but the risk was high.
 
 ![The Cloisters underneath the Wren library, looking towards Neville Court.](../img/wren-cloister.jpg)
 
