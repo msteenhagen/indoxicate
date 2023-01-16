@@ -26,7 +26,7 @@ Chances, probabilities, likelihoods. We've heard a lot about those during the la
 
 Compare the following two examples. When I step outside to go for a long walk, there often is a chance higher than one in five (>20%) that I'll be caught in bad weather and get soaked. Yet, even with those odds I normally don't go through the hassle of carrying an umbrella. 
 
-On the other hand, when I get into a car I always wear a seatbelt, even though the chance of getting involved in an accident is less than 1%. Why do I leave the umbrella home, but insist on wearing the seatbelt? For keep in mind, the _chance_ of the negative outcome the umbrella protects against happening is very much the higher than the chance I'll be in an accident.
+On the other hand, when I get into a car I always wear a seatbelt, even though the chance of getting involved in an accident is less than 1%. Why do I leave the umbrella home, but insist on wearing the seatbelt? For keep in mind, the _chance_ of the negative outcome the umbrella protects against happening is much higher than the chance I'll be in an accident.
 
 The answer is of course that it doesn't matter much if I get wet. It's inconvenient, but when it happens it's not much more than an uncomfortable but interesting adventure. In stark contrast, the consequences of a road accident are likely to be severe, possibly even very severe. It could easily lead to hospitalisation or death. 
 
