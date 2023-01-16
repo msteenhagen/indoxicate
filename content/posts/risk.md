@@ -30,7 +30,7 @@ On the other hand, when I get into a car I always wear a seatbelt, even though t
 
 The answer is of course that it doesn't matter much if I get wet. It's inconvenient, but when it happens it's not much more than an uncomfortable but interesting adventure. In stark contrast, the consequences of a road accident are likely to be severe, possibly even very severe. It could easily lead to hospitalisation or death. 
 
-Given this, getting caught in a shower is in fact a lower risk than the risk of a car accident. Risks are about chances as well as consequences. For similar considerations I don't smoke, even though I know that [the majority of smokers will reach old age](https://www.cbs.nl/en-gb/news/2017/37/heavy-smokers-cut-their-lifespan-by-13-years-on-average). With smoking, for me it's not about the chance of being fine, but about what happens when you're not. 
+Given this, getting caught in a shower is in fact a lower risk than the risk of a car accident. Risks are about consequences as well as  chances. For similar considerations I don't smoke, even though I know that [the majority of smokers will reach old age](https://www.cbs.nl/en-gb/news/2017/37/heavy-smokers-cut-their-lifespan-by-13-years-on-average). With smoking, for me it's not about the chance of being fine, but about what happens when you're not. 
 
 ## Calculating risk 
 
