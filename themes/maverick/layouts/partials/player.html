@@ -1,0 +1,18 @@
+<details>
+  <summary>
+    <span class="icon">▶ listen to this post</span>
+  </summary>
+  <div class="player" >
+<audio id="player" controls>
+  <source src="../audio/{{ .Params.audio }}" type="audio/mp3" />
+</audio>
+  </div>
+</details>
+
+
+
+
+
+<script>
+  const player = new Plyr('#player');
+</script>

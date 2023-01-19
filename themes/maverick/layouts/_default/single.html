@@ -6,8 +6,15 @@
   <main id="main">
   <div class="content">
     {{ partial "header.html" . }}
+
+    <div class="playtop">
+      {{ if .Params.audio }}
+      {{ partial "player.html" $ }}
+      {{ end }}
+    </div>
     <section>
-      <h1 class="post">{{ .Title }}</h1>
+      <!-- this css class h1.postnew is defined in the player.css -->
+      <h1 class="postnew">{{ .Title }}</h1>
       {{ .Content }}
       <div>
         <hr>

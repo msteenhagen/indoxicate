@@ -25,6 +25,12 @@
 
     <!-- End Twitter cards -->
 
+    <!-- For MP3 player-->
+    <link rel="stylesheet" href="/css/player.css">
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.3/plyr.css" />
+    <script src="https://cdn.plyr.io/3.7.3/plyr.js"></script>
+    <!-- end for MP3 player -->
+
     <meta name="author" content="Liste - {{ .Site.BaseURL }}">
     <title>{{ if eq .IsHome true }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
