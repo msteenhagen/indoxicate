@@ -16,7 +16,9 @@ David Hume's [problem of induction](https://philpeople.org/public_cache/file?con
 
 The classic example is the knowledge that the sun will come up tomorrow. Most people, including myself, do claim to know this. But how can they, given that tomorrow hasn't yet begun? Sure enough, I've seen the sun come up today and the days prior to it. But I can't look into the future. To put it generally, how do people form beliefs about matters of fact that are, as Hume says, 'beyond the immediate impressions of our memory and senses'? (_[A Treatise of Human Nature,](https://davidhume.org/texts/t/full)_ 1740, 89) 
 
-Hume's answer is that our knowledge of the future is based on the assumption that nature is uniform: if one thing and another have been regularly connected in experience, then this connection holds generally in nature. That that nature is uniform, Hume thought, was so obvious and natural that it needn't be questioned. If this is so, then the evidence I have about the sun will be enough to allow me to claim authoritatively that the sun will come up again. 
+Hume's answer is that our knowledge of the future is based on the assumption that nature is uniform: if one thing and another have been regularly connected in experience, then this connection holds generally in nature. Every time a new days starts, the sun comes up. 
+
+That nature is uniform, Hume thought, was so obvious and natural that it needn't be questioned. If this is so, then the evidence I have about the sun will be enough to allow me to claim authoritatively that the sun will come up again. 
 
 Now, think about this for a minute. Perhaps you'll notice that a reliance on the idea that nature is uniform makes the argument circular. If it's really so obvious, then _how do we know_ that nature is uniform? It seems we can once more base ourselves only on what we've seen so far. Yet the initial problem was precisely one of extrapolating such knowledge into the future. By pointing to the idea that nature is uniform, then, we don't seem to have solved the problem at all.[^1] 
 
