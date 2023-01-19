@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "When nature stops playing along"
-image = "https://indoxicate.me/img/nonature.jpg"
+image = "https://indoxicate.me/img/nonaturesmall.jpg"
 date = "2023-01-19"
 description = "Climate change, however, is now changing the natural world in ways humans have not encountered before. Regular patterns get disrupted. Seasonal changes become unpredictable. How can we use science to guide policy and action, if its models are junk? "
 tags = [
