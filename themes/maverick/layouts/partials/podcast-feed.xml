@@ -28,16 +28,15 @@
         <itunes:subtitle>{{.Site.Params.podcast.tagline}}</itunes:subtitle>
         <itunes:summary>{{.Site.Params.podcast.description}}</itunes:summary>
         <itunes:keywords></itunes:keywords>
-        <itunes:category text="Arts">
-            <itunes:category text="Food"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"/>
         </itunes:category>
-        <itunes:category text="Health &amp; Fitness">
-            <itunes:category text="Nutrition"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Personal Journals"/>
         </itunes:category>
-        <itunes:category text="Education">
-            <itunes:category text="Courses"/>
+        <itunes:category text="Science">
+            <itunes:category text="Social Sciences"/>
         </itunes:category>
-        <itunes:category text="History"/>
 
         <itunes:author>{{.Site.Params.author}}</itunes:author>
         <itunes:owner>
@@ -78,7 +77,7 @@
                 {{ $scratch.Set "image"  "img/thumbnail.png" }}
             {{end}}
             {{ else }}
-                {{ $scratch.Set "image" (printf "%simages/logo_feed.png" .Site.Params.podcast.cdn_url) }}
+                {{ $scratch.Set "image" (printf "%s/img/thumbnail.svg" .Site.Params.podcast.cdn_url) }}
             {{ end }}
             {{ $image := $scratch.Get "image" }}
             <itunes:image
