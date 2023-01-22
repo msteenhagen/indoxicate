@@ -23,7 +23,7 @@ theme = 'maverick'
   [params.podcast]
     description = "Indoxicate.me"
     tagline = "Short reflections"
-    download_url = "https://indoxicate.me"
+    download_url = "https://provo.lol/storage/audio/"
     cdn_url = "https://indoxicate.me"
     itunes_url = "https://podcasts.apple.com/?"
     itunes_id = "id0000000000"
