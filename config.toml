@@ -21,7 +21,7 @@ theme = 'maverick'
     theme = 'github-light'
 
   [params.podcast]
-    description = "Indoxicate.me"
+    description = "Short reflections on philosophy, society, and the dreadful state of the world."
     tagline = "Short reflections"
     download_url = "https://provo.lol/storage/audio/"
     cdn_url = "https://indoxicate.me"
