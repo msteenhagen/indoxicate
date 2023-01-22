@@ -21,11 +21,11 @@ theme = 'maverick'
     theme = 'github-light'
 
   [params.podcast]
-    description = "Short reflections on philosophy, society, and the dreadful state of the world."
+    description = "Short reflections on philosophy, society, and the dreadful state of the world"
     tagline = "Short reflections"
     download_url = "https://provo.lol/storage/audio/"
     cdn_url = "https://indoxicate.me"
-    itunes_url = "https://podcasts.apple.com/?"
+    itunes_url = "https://podcasts.apple.com/us/podcast/indoxicate/id1667175259"
     itunes_id = "id0000000000"
 
 [menu]
