@@ -3,10 +3,13 @@ author = "Maarten Steenhagen"
 title = "Thinking as a Service"
 image = "https://indoxicate.me/img/reading.jpg"
 date = "2023-01-13"
+episode = "true"
+duration = "0:05:57"
 description = "When we worry about declining literacy in societies that should very well be able to afford decent education, we should not look too narrowly when we look for causes. The less capable people are to read, the easier it will be to exploit their helplessness for profit."
-tags = [
-    "TAAS","literacy","Netherlands","capitalism"
-]
+tags = ["TAAS","literacy","Netherlands","capitalism"]
+[mp3]
+    asset_link = "taas.mp3"
+    length = "5549161"
 +++
 
 In several wealthy countries basic literacy is declining year on year. Here I want to focus on The Netherlands, a country I understand well. In the [most recent PISA report](https://www.oecd.org/pisa/), which looked at data from 2018, The Netherlands performed poorly given its wealth, trailing a large distance behind Estonia, Singapore, and China.    

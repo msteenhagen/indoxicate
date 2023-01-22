@@ -7,6 +7,11 @@ description = "Climate change is now changing the natural world in ways humans h
 tags = [
     "climate","economics","epidemiology","induction","podcasts"
 ]
+episode = "true"
+duration = "0:09:07"
+[mp3]
+    asset_link = "unstable-nature.mp3"
+    length = "8753236"
 +++
 
 

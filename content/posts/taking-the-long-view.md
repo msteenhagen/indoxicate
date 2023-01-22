@@ -6,6 +6,11 @@ date = "2022-12-04"
 description = "We should reject the name MacAskill and others have used for their megalomanic ethical programme, 'longtermism'. They make it seem that theirs is the only programme that cares about the future. This is misleading and wrong."
 tags = [
     "longtermism","ethics","future","extinction", "death"]
+    episode = "true"
+duration = "0:11:30"
+[mp3]
+    asset_link = "taking-the-long-view.mp3"
+    length = "11045325"
 +++
 
 How bad would human extinction be? To my mind, it seems that it all depends on _how_ it happens. It would be strange to think that we should prevent extinction at all costs---in part because extinction is inevitable.  

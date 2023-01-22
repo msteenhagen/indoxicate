@@ -7,6 +7,11 @@ description = "When people think about risk, they often only think about probabi
 tags = [
     "COVID-19","risk","health"
 ]
+episode = "true"
+duration = "0:07:12"
+[mp3]
+    asset_link = "risk.mp3"
+    length = "6922575"
 +++
 
 

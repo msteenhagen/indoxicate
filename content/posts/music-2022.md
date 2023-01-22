@@ -8,6 +8,11 @@ description = "Here's a list of some of the music I listened to this year."
 tags = [
     "music"
 ]
+episode = "true"
+duration = "0:18:47"
+[mp3]
+    asset_link = "music-2022.mp3"
+    length = "18034020"
 +++
 
 To celebrate the end of the year, I've gone through the songs and albums that I've played most during 2022. 
