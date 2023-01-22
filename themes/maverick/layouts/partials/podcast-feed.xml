@@ -77,11 +77,11 @@
                 {{ $scratch.Set "image"  "img/thumbnail.png" }}
             {{end}}
             {{ else }}
-                {{ $scratch.Set "image" (printf "%s/img/thumbnail.svg" .Site.Params.podcast.cdn_url) }}
+                {{ $scratch.Set "image" (printf "%s/img/thumbnail.png" .Site.Params.podcast.cdn_url) }}
             {{ end }}
             {{ $image := $scratch.Get "image" }}
             <itunes:image
-                    href="{{ (absURL $image) }}"/>
+                    href="http://indoxicate.me/img/thumbnail.png"/>
             <itunes:duration>{{ .Params.duration }}</itunes:duration>
             <itunes:keywords>{{ with .Params.tags }}{{ delimit . ", "}}{{ end }}</itunes:keywords>
             <itunes:episodeType>{{ .Params.eptype }}</itunes:episodeType>
