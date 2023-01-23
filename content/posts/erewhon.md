@@ -5,7 +5,7 @@ image = "https://indoxicate.me/img/court.jpg"
 date = "2023-01-23"
 episode = "true"
 duration = "0:10:51"
-description = "Samuel Butler's novel Erewhon (1872) satirises the Social-Darwinism that appeared on the horizon in the nineteenth century. It prefigures Susan Sontag's observations about how illness has more and more become a sign of individual failing."
+description = "Samuel Butler's novel Erewhon (1872) satirises the social-Darwinism that appeared on the horizon in the nineteenth century. It prefigures Susan Sontag's observations about how illness has more and more become a sign of individual failing."
 tags = ["literature","society", "health", "ableism"]
 [mp3]
     asset_link = "erewhon.mp3"
