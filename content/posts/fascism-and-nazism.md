@@ -7,6 +7,11 @@ description = "R.G. Collingwood's article 'Fascism and Nazism' is relevant to th
 tags = [
     "fascism","nazism","Collingwood","Oakeley"
 ]
+episode = "false"
+duration = "0:06:59"
+[mp3]
+    asset_link = "fascism-and-nazism.mp3"
+    length = "6708580"
 +++
 
 R.G. Collingwood's article ['Fascism and Nazism'](https://philpapers.org/rec/RGCFAN) (1940) is relevant to think about today. It's main aim is to explain how fascism and nazism can get off the ground. How can it be that in countries where a clear majority of people share the values of liberal democracy, fascistic groups, groups that overtly threaten democracy and undermine the ideal of freedom for all people, gain a foothold, grow in force, and, at least in Collingwood's lifetime, seize power? 

@@ -7,6 +7,11 @@ description = "What would happen if humans stopped being able to reproduce? COVI
 tags = [
     "pandemic","fertility","science-fiction","literature"
 ]
+episode = "false"
+duration = "0:05:28"
+[mp3]
+    asset_link = "reproductive-decline.mp3"
+    length = "5258262"
 +++
 
 What would happen if humans stopped being able to reproduce? The novelist P.D. James took the counterfactual as a premise for her 1992 book _The Children of Men_. In the beginning of the story, set in 2021, the reader hears that the sperm count of human males had quite suddenly decreased to zero in the year 1994. No new children were born after that point. After a couple of decades, the memories of having babies and children around had mostly faded. A solution to the fertility problem had not been found, and in the novel we find a society that is mothballing itself in preparation of a seemingly inevitable end.
