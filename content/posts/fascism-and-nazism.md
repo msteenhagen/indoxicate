@@ -7,7 +7,7 @@ description = "R.G. Collingwood's article 'Fascism and Nazism' is relevant to th
 tags = [
     "fascism","nazism","Collingwood","Oakeley"
 ]
-episode = "false"
+episode = "true"
 duration = "0:06:59"
 [mp3]
     asset_link = "fascism-and-nazism.mp3"

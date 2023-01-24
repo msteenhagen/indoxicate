@@ -7,7 +7,7 @@ description = "What would happen if humans stopped being able to reproduce? COVI
 tags = [
     "pandemic","fertility","science-fiction","literature"
 ]
-episode = "false"
+episode = "true"
 duration = "0:05:28"
 [mp3]
     asset_link = "reproductive-decline.mp3"
