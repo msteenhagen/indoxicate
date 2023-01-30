@@ -7,7 +7,7 @@ description = "Language can divide and exclude. This is a serious issue that nee
 tags = [
     "writing","accessibility","literacy","communication"
 ]
-episode = "false"
+episode = "true"
 duration = "0:14:10"
 [mp3]
     asset_link = "text-accessibility-requires-multiple-formats.mp3"
