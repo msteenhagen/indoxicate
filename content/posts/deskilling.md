@@ -36,7 +36,7 @@ Those workers, as a consequence, become increasingly dependent on the powerful f
 
 In other words, Braverman says that by controlling the distribution of skill, capitalist enterprises control who is in power. Sounds familiar? I think so. And, spoiler alert: the power stays with the capitalist.  
 
-## Criticism Braverman's deskilling thesis
+## Criticism of Braverman's deskilling thesis
 
 Although Braverman's work has been influential, his main claims about deskilling have been questioned and watered down. 
 
