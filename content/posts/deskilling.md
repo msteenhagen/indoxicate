@@ -7,7 +7,7 @@ description = "I think that the idea of deskilling is a good lens through which 
 tags = [
     "deskilling","capitalism","consumerism", "work"
 ]
-episode = "false"
+episode = "true"
 duration = "0:12:08"
 [mp3]
     asset_link = "deskilling.mp3"
