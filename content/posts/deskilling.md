@@ -54,8 +54,6 @@ Now, I don't like the term 'consumers' here. I don't like it because it plays al
 
 Jaffe and Gertler write that the food industry has cultivated and encouraged a change in how people understand what they do in their own kitchens. Instead of being engaged in autonomous production of food from raw materials, you are in your kitchen and at your dinner table consuming products that you have bought from food producers. Gradually, you slide into a rhythm of consume, consume, consume...
 
-![Front page of Google Scholar](../img/google-scholar.png)
-_<small><center>Front page of Google Scholar</center></small>_
 
 ## Deskilled by the market
 
@@ -64,6 +62,9 @@ I think this idea of 'consumer deskilling' is important, although as I said I th
 I like to call what's going on here market-driven deskilling. That places the emphasis on the market. It is a form of deskilling that is driven by attempts to secure and generate profitable sale of commodities.
  
 What I've been able to find tells me that this form of deskilling has mainly been discussed in the context of the capitalist food industry. taking off from Jaffe and Gertler's paper. However, I think that it has a much wider application. Let me give you one example close to home. 
+
+![Front page of Google Scholar](../img/google-scholar.png)
+_<small><center>Front page of Google Scholar</center></small>_
 
 ## On the shoulders of giants
 
