@@ -7,7 +7,7 @@ description = "It's always useful to pause when a metaphor becomes entrenched, a
 tags = [
     "computing","capitalism","metaphor", "cloud"
 ]
-episode = "false"
+episode = "true"
 duration = "0:07:26"
 [mp3]
     asset_link = "thecloud.mp3"
