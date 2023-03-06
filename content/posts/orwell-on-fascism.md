@@ -7,7 +7,7 @@ description = "The political energy of fascism is colouring the horizons of Euro
 tags = [
     "fascism","capitalism","socialism", "orwell"
 ]
-episode = "false"
+episode = "true"
 duration = "0:10:07"
 [mp3]
     asset_link = "orwell-on-fascism.mp3"
