@@ -3,7 +3,7 @@ author = "Maarten Steenhagen"
 title = "George Orwell on fascism"
 image = "https://indoxicate.me/img/orwell.jpg"
 date = "2023-03-06"
-description = ""
+description = "The political energy of fascism is colouring the horizons of Europe. The right wing of public life is teeming with activity. I will use 'fascistic' to describe the direction in which Europe is currently moving, because this is what I judge it to be."
 tags = [
     "fascism","capitalism","socialism", "orwell"
 ]
