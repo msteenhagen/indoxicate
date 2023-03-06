@@ -50,5 +50,5 @@ So understood, it should be clear that the fascistic attitude or sentiment is no
 
 Orwell's writings about fascism are of immense value to day. They should serve as a mandatory refresher of how real the political force of fascism is, and how closely fascism lurks under the surface of capitalist society. His works remind you of the fact that although the fascist will always claim to fight for 'freedom' or 'justice', they invariably suppress the qualification that it concerns only freedom and justice _for them_.   
 
-I think that the term 'fascist' can perfectly well be used today, and even used in a purely descriptive way. The political movement I see in frightfully many places in Europe  is reactionary, it is viscerally opposed to the idea that _everyone_ deserves free and equal treatment, and it actively promotes great wealth too remain in the hands of a privileged and aggressively protected few. 
+I think that the term 'fascist' can perfectly well be used today, and even used in a purely descriptive way. The political movement I see in frightfully many places in Europe  is reactionary, it is viscerally opposed to the idea that _everyone_ deserves free and equal treatment, and it actively promotes great wealth to remain in the hands of a privileged and aggressively protected few. 
 
