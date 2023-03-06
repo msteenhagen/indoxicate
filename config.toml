@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Indoxicate'
 paginate = 3
 theme = 'maverick'
-
+ignoreErrors = ["error-remote-getjson"]
 
 [permalinks]
   posts = ":slugorfilename/"
@@ -94,4 +94,5 @@ theme = 'maverick'
     noUgly = true
     Rel = "alternate"
 
-ignoreErrors = ["error-remote-getjson"]
+
+
