@@ -18,7 +18,7 @@ duration = "0:10:07"
 
 The political energy of fascism is colouring the horizons of Europe. The right wing of public life is teeming with activity. With each new electoral gain, its momentum grows, as does the cold-bloodedness of their slogans and the callousness of the policies they imagine. At least in countries like Italy, Sweden, and The Netherlands, a fascistic revolution seems rapidly approaching. It does to me at least. 
 
-Just look around you. Refugees, climate activists, people of colour, trans people, Muslims, critical historians, disabled people, people who are medically vulnerable, women who choose to control their own bodies---all of these groups are pushed ever more forcefully into the dehumanising mould of a 'problem' or 'abberation' that needs to be dealt with. To put it bluntly, large parts of humanity are with increasing enthusiasm portrayed as those that need to be got rid of, instead of fellow souls that deserve respect, support, shelter, and a living.
+Just look around you. Refugees, climate activists, people of colour, trans people, Muslims, critical historians, disabled people, people who are medically vulnerable, women who choose to control their own bodies---all of these groups are pushed ever more forcefully into the dehumanising mould of a 'problem' or 'aberration' that needs to be dealt with. To put it bluntly, large parts of humanity are with increasing enthusiasm portrayed as those that need to be got rid of, instead of fellow souls that deserve respect, support, shelter, and a living.
 
 That this is happening should be obvious. 
 
