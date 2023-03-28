@@ -8,7 +8,7 @@ description = "Microchips are some of the most extraordinary objects humanity ha
 tags = [
     "climate-change","capitalism","collapse","microchips"
 ]
-episode = "false"
+episode = "true"
 duration = "0:13:49"
 [mp3]
     asset_link = "post-collapse-computing.mp3"
