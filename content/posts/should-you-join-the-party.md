@@ -15,7 +15,7 @@ duration = "0:13:41"
     length = "26277848"
 +++
 
-I've been thinking recently, about what form of political organisation I should put my time and energy in. How can I best contribute to bringing about societal and economic reform? It is glaringly obvious that such reform needs to happen. But so far the vast majority of those who agree that something needs to be done largely sits back, watching the future get bleaker and bleaker. Often it feels as if I'm sitting back. 
+I've been thinking recently about what form of political organisation I should put my time and energy in. How can I best contribute to bringing about societal and economic reform? It is glaringly obvious that such reform needs to happen. But so far the vast majority of those who agree that something needs to be done largely sits back, watching the future get bleaker and bleaker. Often it feels as if I'm sitting back. 
 
 That people think action is needed while at the same time doing nothing does not mean they don't care. Many of them do. They simply don't see what they can do---how they could exercise their political agency in a way that would make a difference. If this sounds at all familiar to you, then looking into forms of organising politics may be the place to start. 
 
