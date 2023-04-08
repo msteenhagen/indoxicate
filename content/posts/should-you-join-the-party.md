@@ -8,11 +8,11 @@ description = "I've been thinking recently, about what form of political organis
 tags = [
     "politics","socialism","communism","climate-change", "capitalism", "neoliberalism", "Jodi-Dean"
 ]
-episode = "false"
-duration = "0:00:00"
+episode = "true"
+duration = "0:13:41"
 [mp3]
     asset_link = "should-you-join-the-party.mp3"
-    length = "0000"
+    length = "26277848"
 +++
 
 I've been thinking recently, about what form of political organisation I should put my time and energy in. How can I best contribute to bringing about societal and economic reform? It is glaringly obvious that such reform needs to happen. But so far the vast majority of those who agree that something needs to be done largely sits back, watching the future get bleaker and bleaker. Often it feels as if I'm sitting back. 
