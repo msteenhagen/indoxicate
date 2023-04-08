@@ -4,7 +4,7 @@ author = "Maarten Steenhagen"
 title = "Should you join the party?"
 image = "https://indoxicate.me/img/bij1.jpg"
 date = "2023-04-08"
-description = "I've been thinking recently, about what form of political organisation I should put my time and energy in. How can I best contribute to bringing about societal and economic reform? In this light, Jodi Dean's work is worth reading. She argues that people who want to join the fight for a socialist future should join forces within a party. But for her, the party isn't about electoral politics. It's a community of people who choose to organise themselves to commit to shared goals and shared principles."
+description = "I've been thinking recently about what form of political organisation I should put my time and energy in. How can I best contribute to bringing about societal and economic reform? In this light, Jodi Dean's work is worth reading. She argues that people who want to join the fight for a socialist future should join forces within a party. But for her, the party isn't about electoral politics. It's a community of people who choose to organise themselves to commit to shared goals and shared principles."
 tags = [
     "politics","socialism","communism","climate-change", "capitalism", "neoliberalism", "Jodi-Dean"
 ]
