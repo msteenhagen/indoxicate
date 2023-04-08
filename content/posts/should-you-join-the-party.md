@@ -73,7 +73,7 @@ There are many things I've left out here. For example, how should a party organi
 
 I also haven't discussed Dean's interesting take on the psychological work that a party does. She thinks the party is uniquely suited to work through the problems of living together politically. (And this is a psychoanalytic sense of 'working through', involving the discovery of unconscious aggression, desires, and defence mechanisms).[^2]
 
-Regardless of whether you or I agree with Dean all the way, these arguments are worth discussing with those you feel politically close to. What expectations should you have of a movement towards a new politics? Whith an eye on the future, what is more important, your own political agency or the agency of a group? And what actions can you undertake right now to cultivate the sort of struggle that we need?
+Regardless of whether you or I agree with Dean all the way, these arguments are worth discussing with those you feel politically close to. What expectations should you have of a movement towards a new politics? With an eye on the future, what is more important, your own political agency or the agency of a group? And what actions can you undertake right now to cultivate the sort of struggle that we need?
 
 ![](../img/bij1.jpg)
 
