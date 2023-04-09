@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
   {{ partial "head.html" . }}
+  <script src="../js/mastodonShare.js"></script>
 <body>
   <a class="skip-link" href="#main">Skip to main</a>
   <main id="main">
@@ -19,6 +20,9 @@
       <div>
         <hr>
       </div>
+
+{{ partial "sharing.html" . }}
+
       {{ if eq .Section "posts" }}
       <div class="post-date">
         <span class="g time">{{.Date.Format "January 2, 2006"}} </span> &#8729;
