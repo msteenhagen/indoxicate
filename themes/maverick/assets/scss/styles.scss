@@ -17,6 +17,7 @@ p.sitetitle {
 	font-family: 'Yatra One', cursive;
 	font-size: 16pt;
 	text-transform: uppercase;
+    position:absolute;
 }
 
 .skip-link {
@@ -108,6 +109,12 @@ ul {
     list-style-type: square;
 }
 
+ul.menu {
+    position: relative;
+    top: -15px;
+    right: -62%;
+}
+
 ul, ol {
     padding-left: 1.2rem;
 }
@@ -174,6 +181,39 @@ h2.post {
 header ul a:first-child {
     padding-left: 1rem;
 }
+
+
+// STYLING FOR FOR SMALL
+
+@media (max-width: 28em) {
+    body {
+    font: 0.8rem/1.5 -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+    }
+    img.avatar{
+    width: 30%;
+    height: 30%;
+    }
+    ul.menu {
+        color: #777;
+        top: 20px;
+        right: 15px;
+    }
+}
+
+@media (max-width: 15em) {
+    body {
+        font-size: 10pt;
+    }
+    h1.postnew{
+        font-size: 12pt;
+    }
+    ul.menu {
+        font-size: 8pt;
+    }
+}
+
+// END MENU FOR SMALL
+
 
 .nav {
     height: 1px;
