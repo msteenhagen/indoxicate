@@ -7,7 +7,7 @@ description = "In a series of recent books the philosopher Byung-Chul Han has re
 tags = [
     "Byung-Chul-Han","phenomenology","neoliberalism","tech", "capitalism", "philosophy"
 ]
-episode = "false"
+episode = "true"
 duration = "0:14:08"
 [mp3]
     asset_link = "consumer-phenomenology.mp3"
