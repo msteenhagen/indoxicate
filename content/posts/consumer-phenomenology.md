@@ -2,7 +2,7 @@
 author = "Maarten Steenhagen"
 title = "A consumer phenomenology of the digital"
 image = "https://indoxicate.me/img/clockwork.jpg"
-date = "2023-04-12"
+date = "2023-04-13"
 description = "In a series of recent books the philosopher Byung-Chul Han has revived a type of reactionary argument against technology. This time the argument is against digital communication and digital media. They would undermine community, stamp out attention and ritual, and lead to a culture of narcissism. I disagree with Han. But I think that Han's misdirected aversion to digital technology is understandable, and helps us see a more general problem with our image of tech."
 tags = [
     "Byung-Chul-Han","phenomenology","neoliberalism","tech", "capitalism", "philosophy"
