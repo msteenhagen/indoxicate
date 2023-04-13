@@ -66,7 +66,7 @@ Although this once more seems a provocative idea, I don't think it is right. I t
 
 They are revealing, because anyone who has tried to get digital technology to do things that bypass or subvert capitalist intentions will know that what Han says is false. Just try to set up a free and open social network for friends or comrades, or try to programme home appliances that do not spy on you. Those things won't go with a click of a button. Quite the opposite. If computers always gave immediate results, there would be no [Stack Overflow](https://stackoverflow.com), and no sprawling community of hobbyists, [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)-activists, and hackers.
 
-Han's misdirected aversion to digital technology is perhaps understandable, and may be a sign of a general problem. The image of digital technology has become warped under the influence of neoliberalism. And this is not by accident. If the only things that come to mind when you think of digital communication are Facebook, Twitter, and Tiktok, then it may be hard to discern the true potential of online communication. And that serves some people very well.
+Han's misdirected aversion to digital technology is perhaps understandable, and may be a sign of a general problem. The image of digital technology has become warped under the influence of neoliberalism. And this is not by accident. If the only things that come to mind when you think of digital communication are Facebook, Twitter, and Tiktok, then it may be hard to discern the true potential of online communication. And that serves some people all too well.
 
 ## A gap between cultures
 
