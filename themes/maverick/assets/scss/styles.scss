@@ -112,7 +112,8 @@ ul {
 ul.menu {
     position: relative;
     top: -15px;
-    right: -62%;
+    font-size: 11pt;
+    right: -48%;
 }
 
 ul, ol {
@@ -179,11 +180,22 @@ h2.post {
 }
 
 header ul a:first-child {
-    padding-left: 1rem;
+    padding-left: 0.6rem;
 }
 
 
 // STYLING FOR FOR SMALL
+
+@media (max-width: 35em) {
+    ul.menu {
+        font-size: 9pt;
+        top: -8px;
+        right: -38%;
+    }
+    header ul a:first-child {
+    padding-left: 0.4rem;
+    }
+}
 
 @media (max-width: 28em) {
     body {
@@ -196,7 +208,10 @@ header ul a:first-child {
     ul.menu {
         color: #777;
         top: 20px;
-        right: 15px;
+        left: -3px;
+    }
+    header ul a:first-child {
+    padding-left: 0.2rem;
     }
 }
 
@@ -208,7 +223,11 @@ header ul a:first-child {
         font-size: 12pt;
     }
     ul.menu {
-        font-size: 8pt;
+        font-size: 7pt;
+        left: -2px;
+    }
+    header ul a:first-child {
+    padding-left: 0.1rem;
     }
 }
 
@@ -252,6 +271,16 @@ hr {
 img {
     max-width: 100%;
     height: auto;
+}
+
+// Transparent image
+
+img.middle-image {
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
@@ -305,8 +334,6 @@ img {
     float: right;
     border-radius: 50%;
 }
-
-
 
 // Sharing buttons
 

@@ -33,22 +33,28 @@ ignoreErrors = ["error-remote-getjson"]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = "-110"
+    weight = 1
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
+    identifier = "archive"
+    name = "Archive"
     url = "/posts/"
-    weight = -200
+    weight = 2
   [[menu.main]]
     identifier = "rss"
     name = "RSS"
     url = "/atom.xml"
-    weight = -50
+    weight = 6
   [[menu.main]]
-    identifier = "rss"
+    identifier = "newsletter"
     name = "Newsletter"
     url = "https://newsletter.indoxicate.me/subscription/form"
-    weight = 20
+    weight = 4
+  [[menu.main]]
+    identifier = "podcast"
+    name = "Podcast"
+    url = "/podcast"
+    weight = 5
+
 
 
 

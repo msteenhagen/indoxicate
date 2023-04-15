@@ -4,7 +4,7 @@
 
 Welcome to my website and blog. On these pages you can find regular blog entries and essays, as well as my [academic papers](/tags/academic/) and teaching materials. I mostly write about philosophy, psychology, and the dreadful state of the world. 
 
-Should you want to know more about me, I have included a [biographical note](about/). You can also subscribe to my <a href="https://newsletter.indoxicate.me/subscription/form" target="_blank">newsletter</a>, <a href="http://indoxicate.me/atom.xml">RSS feed</a>, or <a href="http://indoxicate.me/feed/mp3/" target="_blank">podcast</a>.
+Should you want to know more about me, I have included a [biographical note](about/). You can also subscribe to my <a href="https://newsletter.indoxicate.me/subscription/form" target="_blank">newsletter</a>, <a href="http://indoxicate.me/atom.xml">RSS feed</a>, or [podcast](/podcast/).
 
 <!-- For information about how to contact me, please consult my [contact page](contact/).  -->
 
