@@ -17,6 +17,7 @@ I've also compiled a non-exhaustive list of services where you can subscribe to 
 - [Apple Podcasts](https://podcasts.apple.com/uk/podcast/indoxicate/id1667175259)
 - [Spotify](https://open.spotify.com/show/5eCTFju0gCgx5UgjXTVXB0)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9pbmRveGljYXRlLm1lL2ZlZWQvbXAzLw)
+- [pod.link](https://pod.link/indoxicate)
 - [Podbean](https://www.podbean.com/podcast-detail/xshtn-29d378/Indoxicate-Podcast)
 - [Pocket Casts](https://pca.st/xie4u61x)
 - [Podchaser](https://www.podchaser.com/podcasts/indoxicate-5107254)
