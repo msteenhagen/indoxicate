@@ -16,7 +16,9 @@
     <section>
       <!-- this css class h1.postnew is defined in the player.css -->
       <!-- <h1 class="postnew">{{ .Title }}</h1> -->
+      {{ if .Params.image }}
       <img class="middle-image" src="../img/{{ .Params.image }}">
+      {{ end }}
       {{ .Content }}
       <div>
         <hr>

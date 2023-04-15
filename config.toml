@@ -5,6 +5,7 @@ paginate = 3
 theme = 'maverick'
 ignoreErrors = ["error-remote-getjson"]
 
+
 [permalinks]
   posts = ":slugorfilename/"
   pages = ":filename/"
@@ -14,7 +15,8 @@ ignoreErrors = ["error-remote-getjson"]
   description = "Website and blog of Maarten Steenhagen"
   author = "Maarten Steenhagen"
   email = "maarten@steenhagen.nl"
-
+  cc = "CC BY 4.0"
+  ccurl = "https://creativecommons.org/licenses/by/4.0/"
 
   [params.comments]
     githubRepo = 'msteenhagen/indoxicate'

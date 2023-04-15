@@ -25,19 +25,21 @@
 
       {{ if eq .Section "posts" }}
       <div class="post-date">
-        <span class="g time">{{.Date.Format "January 2, 2006"}} </span> &#8729;
+        <span class="g time">{{.Date.Format "January 2, 2006"}} </span> </br>
         {{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
         {{ range $index, $tag := . }} {{ with $.Site.GetPage (printf "/%s/%s"
         $taxonomy $tag) -}}
         <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
         {{- end -}} {{- end -}}
-        {{ end }} &#8729; <a href="/atom.xml">RSS</a>
+        {{ end }}
       </div>
-      <div>
-        <span class="text-stone-500 animate-blink">🧠</span><i><a href="https://newsletter.indoxicate.me/subscription/form" target="blank"> Subscribe to my newsletter</a></i>
+      <div class="newsletter">
+        <span class="text-stone-500 animate-blink">🧠</span><i><a href="https://newsletter.indoxicate.me/subscription/form" target="blank"> Subscribe to the newsletter</a></i>
       </div>
-
       {{ end }}
+      <div>
+      {{ partial "footer.html" . }}
+      </div>
     </section>
     {{ if eq .Section "posts" }}
     <div id="comments">
