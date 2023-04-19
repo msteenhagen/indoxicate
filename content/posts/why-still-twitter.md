@@ -3,11 +3,11 @@ author = "Maarten Steenhagen"
 title = "Why am I still on Twitter?"
 image = "https://indoxicate.me/img/twitter.jpg"
 date = "2023-04-19"
-description = "Platforms like Twitter have a stifling effect on political activism. In the current internet economy, politics is more and more reduced to a universe of discourse and we are encouraged to overestimate the political significance of tweeting and retweeting. Moreover, on Twitter a lot of your time goes towards supplying the platform with content. Doing that is not activism. It is capitalist production work. But can we even imagine an alternative form of online political activity?"
+description = "Platforms like Twitter have a stifling effect on political activism. In the current internet economy, politics is more and more reduced to a universe of discourse, and we are encouraged to overestimate the political significance of tweeting and retweeting. Moreover, on Twitter a lot of your time goes towards supplying the platform with content. Doing that is not activism: it is capitalist production work. But can we even imagine an alternative form of online political activity?"
 tags = [
     "capitalism", "social-media", "twitter", "jodi-dean", "mark-fisher", "activism"
 ]
-episode = "false"
+episode = "true"
 duration = "0:15:59"
 [mp3]
     asset_link = "why-still-twitter.mp3"
