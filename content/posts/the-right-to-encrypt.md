@@ -4,11 +4,11 @@ author = "Maarten Steenhagen"
 title = "The right to encrypt"
 image = "https://indoxicate.me/img/encryption.jpg"
 date = "2023-04-30"
-description = "It can be hard to find your bearings in the discussion about online privacy. The current retorical focus on crime is a red herring, as the police already has a wide range of powers to track down or spy on criminals. What is really at stake is our right to privacy, and whether it is worth anything still. As I see it, it has never been more important to stand up for online privacy and argue that we have a right to encrypt."
+description = "It can be hard to find your bearings in the discussion about online privacy. The current rhetorical focus on crime is a red herring, as the police already has a wide range of powers to track down or spy on criminals. What is really at stake is our right to privacy, and whether it is worth anything still. As I see it, it has never been more important to stand up for online privacy and argue that we have a right to encrypt."
 tags = [
     "encryption", "privacy", "UK", "communication", "security", "human-rights"
 ]
-episode = "false"
+episode = "true"
 duration = "0:18:11"
 [mp3]
     asset_link = "the-right-to-encrypt.mp3"
