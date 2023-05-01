@@ -44,7 +44,7 @@ This is why messaging apps like WhatsApp and Signal say that the Online Safety B
 ![A person in trench coat standing in front of an ochre wall with huge hieroglyphics in relief](../img/encryption.jpg)
 <center><small><i>Photo by <a href="https://www.pexels.com/photo/woman-standing-near-old-stone-wall-with-carved-images-4577718/" target="_blank">Rachel Claire</a></i></small></center> 
 
-## An worldwide push 
+## A worldwide push 
 
 Currently the Online Safety Bill is in the House of Lords and is likely to become law this summer. If from then on the government requires third-party screening, and if third-party screening is impossible when messages are encrypted end-to-end, then the UK government will already this summer effectively abolish end-to-end encryption on much of the internet in the United Kingdom. For citizens of the UK this would be bad news. They already have to face the fact that their offline lives are a mess because of their government's incompetence, and now this Bill threatens to impose chaos on their online lives as well. John Thornhill [in the _Financial Times_, says that](https://www.ft.com/content/8164fc7d-1865-4c35-b318-da68b7152104) this might make the UK "a strange kind of cyber pariah". 
 
