@@ -7,7 +7,7 @@ description = "The World Health Organisation recently announced that the endurin
 tags = [
     "SARS-CoV-2", "pandemic", "who", "willem-schinkel", "capitalism", "Zero-COVID"
 ]
-episode = "false"
+episode = "true"
 duration = "0:13:14"
 [mp3]
     asset_link = "now-the-emergency-is-over.mp3"
