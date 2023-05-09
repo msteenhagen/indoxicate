@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "Now the emergency is over..."
-image = "https://indoxicate.me/img/emergency.jpg"
+image = "https://indoxicate.me/img/who.jpg"
 date = "2023-05-09"
 description = "The World Health Organisation recently announced that the enduring COVID-19 pandemic is no longer a public health emergency. The change of position should come as no surprise. To be sure, it's a diplomatic farce. But I think it might be good news. The sociologist and philosopher Willem Schinkel explains well why this 'state of emergency' has from the outset stifled political actions that would have been entirely appropriate, and still are. I think there's something to this."
 tags = [
