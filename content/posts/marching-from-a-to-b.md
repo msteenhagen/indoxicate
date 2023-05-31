@@ -7,7 +7,7 @@ description = "Reading Laurie Penny's book Penny Red (2011) twelve years later i
 tags = [
     "Laurie-Penny","protest","London","UCL", "climate", "politics"
 ]
-episode = "false"
+episode = "true"
 duration = "0:10:54"
 [mp3]
     asset_link = "marching-from-a-to-b.mp3"
