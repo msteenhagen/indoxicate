@@ -1,7 +1,7 @@
 +++
 author = "Maarten Steenhagen"
 title = "AI Risk and Capitalism"
-image = "https://indoxicate.me/img/glass-head.jpg"
+image = "https://indoxicate.me/img/extinction.jpg"
 date = "2023-06-02"
 description = "How people seem suddenly worried about 'Artificial Intelligence'! It's as if massive threats to human flourishing suddenly become acceptable if they're cushioned by a soothing cloud of sci-fi speculation. A few days ago a list of people published an open letter in which they argue that "mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war". Well, let me tell you, there's a much bigger problem, and the current path of AI largely owes its existence to it. It's capitalism that is the overarching threat we should be discussing and mitigating."
 tags = [
