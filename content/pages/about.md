@@ -5,7 +5,7 @@ layout: no-title
 
 # About me
 
-I am a philosopher and writing. I'm currently involved in activist and political movements. Before that I was a researcher in the Department of Philosophy at Uppsala University. And prior to coming to Uppsala I worked as a lecturer at the University of Cambridge, where I also was a Bye-Fellow of Queens’ College---one of the oldest colleges in Cambridge. My Ph.D in Philosophy is from University College London. 
+I am a philosopher and writer. I'm currently involved in activist and political movements. Before that I was a researcher in the Department of Philosophy at Uppsala University. And prior to coming to Uppsala I worked as a lecturer at the University of Cambridge, where I also was a Bye-Fellow of Queens’ College---one of the oldest colleges in Cambridge. My Ph.D in Philosophy is from University College London. 
 
 My academic research focuses on perception and aesthetic value. In particular, I concentrate on the metaphysics and normativity of how things look and sound. I also write about the role of perceptual media in experience––such as sounds, images, and optical technology. My articles and papers cover the experience of sounds, images, and mirror perception, as well as evaluations of the different theories of perception.
 
