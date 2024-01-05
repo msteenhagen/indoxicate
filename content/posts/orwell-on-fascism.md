@@ -24,7 +24,7 @@ That this is happening should be obvious.
 
 Yet although the political rhetoric is there for all to witness some people continue to find it incongruous to see the term 'fascist' applied to the type of politics that is unfolding. Still, it is exactly what I am intent on doing. I will use 'fascistic' to describe the direction in which Europe is currently moving, because this is what I judge it to be.
 
-I've been told off for this---online, but still. "Of course, that right-wing politicians have become mainstream is obvious. But it's well beyond the pale call them _fascists_." 
+I've been told off for this---online, but still. "Of course, that right-wing politicians have become mainstream is obvious. But it's well beyond the pale to call them _fascists_." 
 
 But why exactly? Why is labelling the current political movement fascist objectionable? I have seen two different reasons offered. The first is that 'fascist' is a label that applies only to specific historic movements---fascism is contained and a thing of the past and what we see now is just... something else. The second is that the word 'fascist' should not be used because it's merely a pejorative phrase: a term of abuse that expresses no more than contempt or disapproval---"Oh, you don't think what I think? Well, in that case you're a fascist." 
 
