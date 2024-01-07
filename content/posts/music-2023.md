@@ -34,7 +34,7 @@ There's an exercise to the mind here, to imagine the social constellations that 
 
 ## Hélène Vogelsinger, Reminiscence
 
-Polyphonic in a different way, the music by Vogelsinger marks a revival of the modular synthesiser that has been on its way for a while but that continues to spread. Contemporary electronic music generated with genuine synthesisers, instead of the now more common virtual instruments that run on your laptop. It involves dialing in countless physical knobs and connecting a jungle of wires to create a specific 'patch': an electronic circuit that produces a unique tapestry of tones and rhythms. 
+Polyphonic in a different way, the music by Vogelsinger marks a revival of the modular synthesiser that has been on its way for a while but that continues to spread. Contemporary electronic music generated with genuine synthesisers, instead of the now more common virtual instruments that run on your laptop. It involves dialling in countless physical knobs and connecting a jungle of wires to create a specific 'patch': an electronic circuit that produces a unique tapestry of tones and rhythms. 
 
 <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/288983475?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
@@ -62,7 +62,7 @@ My fascination for the English band [Coil](https://en.wikipedia.org/wiki/Coil_(b
 
 <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/152025298?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
-Coil was formed in 1982 in London by John Balance---a pseudonymn---and Peter Christopherson, and they produced a shadowy body of work. Touching on occult, absurdist and erotic themes, their many albums cobble together sermon-like spoken word pieces and compilations of raw and noisy ambient music. 
+Coil was formed in 1982 in London by John Balance---a pseudonym---and Peter Christopherson, and they produced a shadowy body of work. Touching on occult, absurdist and erotic themes, their many albums cobble together sermon-like spoken word pieces and compilations of raw and noisy ambient music. 
 
 The hermetic underworld of Coil was frozen in time in 2004, when, in a strike of tragic irony, Balance accidentally fell from a balcony to his death. Christopherson dissolved the band not much later.
 
@@ -70,7 +70,7 @@ The hermetic underworld of Coil was frozen in time in 2004, when, in a strike of
 
 ## Tredici Bacci, Vendetta Del Toro (feat. Charlie Looker)
 
-I remember that I was writing at my desk when my attention was grabbed by this song performed by Charlie Looker. It was played on Late Junction broadcast on BBC Radio 3. And that's every Friday night. The comedian James Acaster had included it as part of his mixtape for the programme. 
+I remember that I was writing at my desk when my attention was grabbed by this song performed by Charlie Looker. It was played on Late Junction broadcast on BBC Radio 3. And that's every Friday night. The comedian James Acaster had included it as part of his mix-tape for the programme. 
 
 <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 100%;"><iframe src="https://embed.tidal.com/tracks/111560602?layout=gridify" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 1px; min-height: 100%; margin: 0 auto;"></iframe></div>
 
