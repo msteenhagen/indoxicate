@@ -7,7 +7,7 @@ description = "It is no more than natural that the climate movement stands with 
 tags = [
     "climate","justice","palestine", "activism", "colonialism"
 ]
-episode = "false"
+episode = "true"
 duration = "0:14:53"
 [mp3]
     asset_link = "climate-justice-palestine.mp3"
