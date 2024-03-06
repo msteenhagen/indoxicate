@@ -44,13 +44,13 @@ _<small><center>Still from the videoclip of 'Europapa'</center></small>_
 
 I would have thought that 'winning' required ensuring a dignified treatment of refugees in all member states, the formation of a strong anti-fascist coalition, climate justice, and an end to the support of Israël's genocide in Gaza. I would have thought that winning required victories of diplomacy, collaboration and solidarity. Instead, Klein's song portrays Europe's predicament as a race. If we may believe the video, Europe has a chance of becoming 'first'. 
 
-# Super-nationalism
+# Supra-nationalism
 
 It is not a surprise to find politics in Eurovision, given that the entire festival each year ends up being a circus-like reflection of current affairs. It's not even surprising to find an overt celebration of Europe at Eurovision. But at this moment in history, I think the propaganda is especially pernicious. 
 
 Reading the available commentary, so far it has mainly been far right nationalists that have spoken about the propagandistic character of Klein's song. Nationalists everywhere in Europe see the European Union as a threat to their own national identity. The project of the European Union appears to them as a kind of anti-nationalism, a kind of globalism. 
 
-But I think these far-right nationalist critics misunderstand what the song and the accompanying video actually achieve. As the song's narrow celebration of Europeanism shows, 'Europapa' is not at all anti-nationalistic or globalistic. Quite the contrary. It promotes a kind of super-nationalism, a kind of European exceptionalism. 
+But I think these far-right nationalist critics misunderstand what the song and the accompanying video actually achieve. As the song's narrow celebration of Europeanism shows, 'Europapa' is not at all anti-nationalistic or globalistic. Quite the contrary. It promotes a kind of supra-nationalism, a kind of European exceptionalism. 
 
 My own attitude towards the European Union is ambivalent. I think that European unity and solidarity is crucial to counteract nationalistic and imperialist movements in its member states. That's good. But as soon as Europe itself becomes a vehicle for nationalism and imperialism, as it has become, I see dark clouds on the horizon. And those clouds have been gathering for a while now.
  
