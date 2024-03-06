@@ -8,7 +8,7 @@ description = "The Dutch submission for Eurovision is toxically pro-European. It
 tags = [
     "Europe","nationalism","music", "propaganda"
 ]
-episode = "false"
+episode = "true"
 duration = "0:08:10"
 [mp3]
     asset_link = "europapa.mp3"
