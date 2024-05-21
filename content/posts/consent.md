@@ -21,7 +21,7 @@ But there continues to be confusion about the core idea behind this method. This
 
 Let's get rid of this. Because the core idea is very simple. The rest is fluff. Once you understand the logic of group decision making, the method of consent* is straightforward.
 
-(Note: I'm using * behind the term 'consent' when it's used in the technical, sociocratic way, to flag that his use of the word is problematic.)
+(Note: I'm using * behind the term 'consent' when it's used in the technical, sociocratic way, to flag that this use of the word is problematic.)
 
 # Consent*, majority vote, and consensus
 
@@ -63,7 +63,7 @@ The same (quite good) source claims that "consent decision making is more clearl
 
 I also see often that people take the broader process of presenting a proposal to the group, followed by a round of clarifying questions, followed by the possibility of amendments,... and so on, that that's all part of the method of consent*. But this is confused. Because the very same process of presentation, discussion and amendment can be used to reach decisions by majority voting or by trying to reach consensus. Sure, it might be good practice to begin by clarifying the proposal before a group makes a decision, but it has nothing to do specifically with consent*, and also without such good practices consent* can be reached, be it with a significant risk of miscommunication.
 
-# The term consent*
+# The term 'consent'
 
 A second and even more serious objection has to do with terminology. I find it almost inexcusable to use the term 'consent' for a decision making method guided by the absence of expressions of disagreement.
 
