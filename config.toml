@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
   logo = '/assets/favicon.ico'
-  description = "Website and blog of Maarten Steenhagen"
+  description = "Indoxicate the world!"
   author = "Maarten Steenhagen"
   email = "maarten@steenhagen.nl"
   cc = "CC BY 4.0"
